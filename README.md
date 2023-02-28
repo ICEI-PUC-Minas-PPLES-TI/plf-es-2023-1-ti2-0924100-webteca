@@ -15,6 +15,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 * Cleiton Silva Tavares
 * Eveline Alonso Veloso
 * Hugo Bastos de Paula
+* Thiago Augusto Nicolini Silva
 
 ## Instruções de utilização
 
