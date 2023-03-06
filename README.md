@@ -12,10 +12,8 @@ Nosso projeto é uma biblioteca virtual voltada para áudio books, com o princip
 
 ## Professor
 
-* Cleiton Silva Tavares
 * Eveline Alonso Veloso
 * Hugo Bastos de Paula
-* Thiago Augusto Nicolini Silva
 
 ## Instruções de utilização
 
