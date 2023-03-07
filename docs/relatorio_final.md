@@ -46,7 +46,7 @@ Perante ao crescimento do mercado de audiobooks, nosso projeto busca facilitar o
 
     1.2 Problema
 
-De acordo com o  IBOPE em 2019 revelou que o Brasil perdeu 4,6 milhões de leitores nos últimos quatro anos.  O nosso projeto ajudará pessoas analfabetas, crianças , cegos, baixa disponibilidade de tempo entre outros, terem acesso a livros de maneira mais prática e acessível.
+De acordo com o  IBOPE em 2019 revelou que o Brasil perdeu 4,6 milhões de leitores nos últimos quatro anos. Segundo o IBGE de 2010, há no país mais de 6,5 milhões de pessoas que não conseguem ver de forma alguma ou que têm grande dificuldade, o equivalente a 3,4% da população. Desse total, 582,6 mil são incapazes de enxergar.  O nosso projeto ajudará pessoas analfabetas, crianças , cegos, baixa disponibilidade de tempo entre outros, terem acesso a livros de maneira mais prática e acessível.
 
     1.3 Objetivo geral
 
