@@ -41,9 +41,8 @@ A introdução deve apresentar de dois ou quatro parágrafos de contextualizaç�
 
     1.1 Contextualização
 
-Na **contextualização**, o aluno deve dizer do que se trata o trabalho, em que área ou contexto se insere. 
-A **contextualização** deve ser desenvolvida de algo mais genérico para algo mais específico. 
-A citação de pesquisas quantitativas é bem aceita aqui (corretamente referenciadas).
+De acordo com a Nielsen em 2020, em parceria com o Sindicato Nacional dos Editores de Livros (SNEL), foram comercializados 8,7 milhões de e-books e audiolivros, contra 4,7 milhões em 2019. Simultaneamente, segundo dados do IBGE, quase 12 milhões de brasileiros com mais de 15 anos não sabem ler ou escrever e das 6,5 milhões de pessoas com alguma deficiência visual no Brasil, 528.624 pessoas são totalmente cegas.
+Perante ao crescimento do mercado de audiobooks, nosso projeto busca facilitar o acesso aos audiolivros para aqueles que mais se beneficiarem e mais necessitam desses livros.
 
     1.2 Problema
 
@@ -61,8 +60,8 @@ concentrar a sua prática investigativa, ou como você vai aprofundar no seu tra
 
     1.4 Justificativas
 
- Devido a alta dinamicidade dos dias atuais, se torna cada vez mais difícil para as pessoas sentarem e lerem um livro. Desta forma os áudio books vem se tornando uma
- opção mais viável para os leitores já ativos e os que desejam começar.
+Mostre também as **justificativas** para o 
+desenvolvimento do seu trabalho e, caso deseje, desta-que alguma contribuição do trabalho.
 
 
 ## 2. Participantes do processo
