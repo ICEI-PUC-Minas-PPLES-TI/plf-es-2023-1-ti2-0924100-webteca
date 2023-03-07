@@ -1,11 +1,15 @@
-# TITULO DO PROJETO
+# WebTeca
 
 
-**Nome completo do Aluno 1, email do aluno 1**
+**Bryan Rosenberg de Abreu, email do aluno 1**
 
-**Nome completo do Aluno 2, email do aluno 2**
+**Gabriel Afonso Infante Vieira, gabrielvieira200481@gmail.com**
 
-**Nome completo do Aluno 3, email do aluno 3**
+**Gabriel Alejandro Figueiro Galindo, gabriel.alejandro@sga.pucminas.br**
+
+**João Paulo Goulart Machado, jpcapitolio@hotmail.com**
+
+**Vitória Ye Miao, vitoria.miao@sga.pucminas.br**
 
 ---
 
@@ -26,8 +30,7 @@ _Instituto de Informática e Ciências Exatas – Pontifícia Universidade de Mi
 
 ---
 
-_**Resumo**. Escrever aqui o resumo. O resumo deve contextualizar rapidamente o trabalho, descrever seu objetivo e, ao final, 
-mostrar algum resultado relevante do trabalho (até 10 linhas)._
+_Nosso projeto é uma biblioteca virtual voltada para áudio books, com o principal objetivo auxiliar pessoas analfabetas, crianças , cegos, baixa disponibilidade de tempo entre outros pessoas na leitura e absorção dos livros. Devido a alta dinamicidade dos dias atuais, se torna cada vez mais difícil para as pessoas sentarem e lerem um livro. Desta forma, os áudio books vem se tornando uma opção mais viável para os leitores já ativos e os que desejam começar._
 
 ---
 
