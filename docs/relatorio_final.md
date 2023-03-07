@@ -1,7 +1,7 @@
 # WebTeca
 
 
-**Bryan Rosenberg de Abreu, email do aluno 1**
+**Bryan Rosenberg de Abreu, bryanalfa0909@gmail.com**
 
 **Gabriel Afonso Infante Vieira, gabrielvieira200481@gmail.com**
 
