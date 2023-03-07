@@ -47,10 +47,7 @@ A citação de pesquisas quantitativas é bem aceita aqui (corretamente referenc
 
     1.2 Problema
 
-Em seguida o aluno deve caminhar a contextualização para descrever o **problema** que o artigo trata. 
-O **problema** pode ser algo vivido em uma empresa específica. Neste caso, o aluno deve rapidamente apresentar 
-o cenário de problema da empresa. A empresa só deve ser citada explicitamente se o aluno tiver autorização 
-para tal.
+De acordo com o  IBOPE em 2019 revelou que o Brasil perdeu 4,6 milhões de leitores nos últimos quatro anos.  O nosso projeto ajudará pessoas analfabetas, crianças , cegos, baixa disponibilidade de tempo entre outros, terem acesso a livros de maneira mais prática e acessível.
 
     1.3 Objetivo geral
 
