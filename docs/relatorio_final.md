@@ -60,9 +60,8 @@ concentrar a sua prática investigativa, ou como você vai aprofundar no seu tra
 
     1.4 Justificativas
 
-Mostre também as **justificativas** para o 
-desenvolvimento do seu trabalho e, caso deseje, desta-que alguma contribuição do trabalho.
-
+Devido a alta dinamicidade dos dias atuais, se torna cada vez mais difícil para as pessoas sentarem e lerem um livro. Desta forma os áudio books vem se tornando uma
+opção mais viável para os leitores já ativos e os que desejam começar.
 
 ## 2. Participantes do processo
 
