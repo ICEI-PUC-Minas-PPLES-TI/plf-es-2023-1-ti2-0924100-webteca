@@ -41,11 +41,11 @@ A introdução deve apresentar de dois ou quatro parágrafos de contextualizaç�
 
     1.1 Contextualização
 
-Em 2022, o mercado global de audiolivros foi avaliado em US$ 5.364,9 milhões e devese se eperar que ele cresça com uma CAGR (Taxa de crescimento anual composta) de 26,3% de 2023 a 2030. Simultaneamente, segundo dados do IBGE, quase 12 milhões de brasileiros com mais de 15 anos não sabem ler ou escrever. Assim, perante ao crescimento do mercado de audiobooks, nosso projeto busca facilitar o acesso aos audiolivros para aqueles que mais se beneficiarem e mais necessitam desses livros.
+Em 2022, o mercado global de audiolivros foi avaliado em US$ 5.364,9 milhões e devese se eperar que ele cresça com uma CAGR (Taxa de crescimento anual composta) de 26,3% de 2023 a 2030. Esses livros estão se tornando cada vez mais populares, devido aos multiplos beneficios que eles oferem em comparação aos ebooks e aos livros de papel. Assim, perante ao crescimento do mercado de audiobooks, nosso projeto busca facilitar o acesso aos audiolivros para aqueles que mais se beneficiarem e mais necessitam desses livros.
 
     1.2 Problema
 
-De acordo com o IBOPE em 2019, o Brasil perdeu 4,6 milhões de leitores nos últimos quatro anos. Além disso, segundo o IBGE de 2010, há no país mais de 6,5 milhões de pessoas que não conseguem ver de forma alguma ou que têm grande dificuldade, o equivalente a 3,4% da população. Desse total, 582,6 mil são incapazes de enxergar.  O nosso projeto ajudará pessoas analfabetas, crianças , cegos, baixa disponibilidade de tempo entre outros, terem acesso a livros de maneira mais prática e acessível.
+De acordo com o IBOPE em 2019, o Brasil perdeu 4,6 milhões de leitores nos últimos quatro anos. Além disso, segundo o IBGE de 2010, há no país mais de 6,5 milhões de pessoas que não conseguem ver de forma alguma ou que têm grande dificuldade, o equivalente a 3,4% da população. Desse total, 582,6 mil são incapazes de enxergar. O nosso projeto ajudará pessoas analfabetas, crianças , cegos, baixa disponibilidade de tempo entre outros, terem acesso a livros de maneira mais prática e acessível.
 
     1.3 Objetivo geral
 
