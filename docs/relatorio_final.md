@@ -57,6 +57,7 @@ Fazer um site voltado para o publico com dificuldade de leitura, por diversos fa
 - Cegueira 
 - Dislexia
 - Analfabetismo
+
 Sendo assim deve possuir interface e navegação bem simples e de facil utilização.
 
 
