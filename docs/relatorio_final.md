@@ -49,13 +49,15 @@ De acordo com o IBOPE em 2019, o Brasil perdeu 4,6 milhões de leitores nos últ
 
     1.3 Objetivo geral
 
-O aluno deve escrever um pequeno parágrafo ou frase com o **objetivo geral** do trabalho. 
-O objetivo deve ser bem direto, específico e definido com verbos de ação (elaborar, propor, ava-liar, comparar etc.).
+Propor uma biblioteca virtual voltada para o publico de audiobooks
 
         1.3.1 Objetivos específicos
+Fazer um site voltado para o publico com dificuldade de leitura, por diversos fatores entre eles:
+-Cegueira 
+-Dislexia
+-Analfabetismo
+Sendo assim deve possuir interface e navegação bem simples e de facil utilização.
 
-Apresente também alguns (pelo menos 2) **objetivos específicos** dependendo de onde você vai querer 
-concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
 
     1.4 Justificativas
 
