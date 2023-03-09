@@ -53,9 +53,13 @@ Propor uma biblioteca virtual voltada para o publico de audiobooks
 
         1.3.1 Objetivos específicos
 Fazer um site voltado para o publico com dificuldade de leitura, por diversos fatores entre eles:
--Cegueira 
--Dislexia
--Analfabetismo
+
+- Cegueira 
+- 
+- Dislexia
+- 
+- Analfabetismo
+- 
 Sendo assim deve possuir interface e navegação bem simples e de facil utilização.
 
 
