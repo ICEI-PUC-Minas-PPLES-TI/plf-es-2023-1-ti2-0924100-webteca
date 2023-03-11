@@ -37,7 +37,6 @@ _Nosso projeto é uma biblioteca virtual voltada para áudio books, com o princi
 
 ## 1. Introdução
 
-A introdução deve apresentar de dois ou quatro parágrafos de contextualização do trabalho. 
 
     1.1 Contextualização
 
