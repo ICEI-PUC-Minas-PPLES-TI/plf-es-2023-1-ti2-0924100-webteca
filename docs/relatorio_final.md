@@ -44,7 +44,7 @@ Em 2022, o mercado global de audiolivros foi avaliado em US$ 5.364,9 milhões e 
 
     1.2 Problema
 
-De acordo com o IBOPE em 2019, o Brasil perdeu 4,6 milhões de leitores nos últimos quatro anos. Além disso, segundo o IBGE de 2010, há no país mais de 6,5 milhões de pessoas que não conseguem ver de forma alguma ou que têm grande dificuldade, o equivalente a 3,4% da população. Desse total, 582,6 mil são incapazes de enxergar.
+De acordo com o IBOPE em 2019, o Brasil perdeu 4,6 milhões de leitores nos últimos quatro anos. Além disso, segundo o IBGE de 2010, há no país mais de 6,5 milhões de pessoas que não conseguem ver de forma alguma ou que têm grande dificuldade, o equivalente a 3,5% da população. Desse total, 582,6 mil são incapazes de enxergar.**[1.2]**
 
     1.3 Objetivo geral
 
@@ -174,7 +174,7 @@ Apresente aqui a conclusão do seu trabalho. Discussão dos resultados obtidos n
 
 **[1.1]** - _Audiobooks Market Size, Share & Trends Analysis Report By Genre, By Preferred Device (Smartphones, Laptops & Tablets, Personal Digital Assistants), By Distribution Channel, By Target Audience, By Region, And Segment Forecasts, 2023 - 2030._
 
-**[1.2]** - _ _
+**[1.2]** - _Estatísticas sobre deficiência visual no Brasil e no Mundo._
 
 **[1.3]** - _ _
 
