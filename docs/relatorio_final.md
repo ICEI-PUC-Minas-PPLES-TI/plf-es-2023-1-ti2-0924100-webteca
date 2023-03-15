@@ -67,11 +67,11 @@ opção mais viável para os leitores já ativos e os que desejam começar.
 
 ## 2. Participantes do processo
 
-Leitores, englobando pessoas com deficiência visual, semi analfabetos, pessoas que não conseguem dedicar o tempo necessário para a leitura, idosos com dificuldade de leitura, estrangeiros que buscam entender melhor a lingua portuguêsa escutando, entre outros.
+ - Leitores, englobando pessoas com deficiência visual, semi analfabetos, pessoas que não conseguem dedicar o tempo necessário para a leitura, idosos com dificuldade de leitura, estrangeiros que buscam entender melhor a lingua portuguêsa escutando, entre outros.
 
-Autores independentes, que desejam disponibilar sua obra em formato de audiobook.
+ - Autores independentes, que desejam disponibilar sua obra em formato de audiobook.
 
-Editoras, com o intuito de disponibilizar suas obras já publicadas para pessoas que não possuem condições de lelas.
+ - Editoras, com o intuito de disponibilizar suas obras já publicadas para pessoas que não possuem condições de lelas.
 
 ## 3. Modelagem do processo de negócio
 
