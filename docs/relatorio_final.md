@@ -77,7 +77,7 @@ opção mais viável para os leitores já ativos e os que desejam começar.
 
 ## 3.1. Análise da situação atual
 
-Atualmente existem livros limitados disponibilizados em audiobooks e em plataformas que não são pensadas para pessoas com deficiência visual. Apesar dos vários algoritmos disponíveis para leitura de arquivos, a voz robótica proveniente dos mesmos acaba prejudicando a experiência do usuário. Enquanto isso, muitas pessoas com deficiência visual continuam enfrentando barreiras para acessar o conteúdo de livros, o que é uma grande limitação para a sua formação cultural e intelectual.
+Atualmente existem livros limitados disponibilizados em audiobooks e em plataformas que não são pensadas para pessoas com deficiência visual. Apesar dos vários algoritmos disponíveis para leitura de arquivos, a voz robótica proveniente dos mesmos acaba prejudicando a experiência do usuário. Enquanto isso, muitas pessoas com deficiência visual continuam enfrentando barreiras para acessar o conteúdo literário, o que é uma grande limitação para a sua formação cultural e intelectual.
 
 Caso um usuário deseje escutar um livro que não esteja disponível em áudio, ele deverá entrar em contato com a editora ou com a plataforma de audiobook escolhida, enviando uma solicitação para a narração do mesmo, o que pode levar um tempo considerável para que seja atendido.
 
@@ -177,14 +177,6 @@ Apresente aqui a conclusão do seu trabalho. Discussão dos resultados obtidos n
 **[1.1]** - _Audiobooks Market Size, Share & Trends Analysis Report By Genre, By Preferred Device (Smartphones, Laptops & Tablets, Personal Digital Assistants), By Distribution Channel, By Target Audience, By Region, And Segment Forecasts, 2023 - 2030._
 
 **[1.2]** - _Estatísticas sobre deficiência visual no Brasil e no Mundo._
-
-**[1.3]** - _ _
-
-**[1.4]** - _ _
-
-**[1.5]** - _ _
-
-
 
 # APÊNDICES
 
