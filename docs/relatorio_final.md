@@ -48,17 +48,13 @@ De acordo com o IBOPE em 2019, o Brasil perdeu 4,6 milhões de leitores nos últ
 
     1.3 Objetivo geral
 
-Propor uma biblioteca virtual voltada para o publico de audiobooks
+Desenvolver um software de biblioteca virtual voltada para o publico de audiobooks.
 
         1.3.1 Objetivos específicos
-Fazer um site voltado para o publico com dificuldade de leitura, por diversos fatores entre eles:
-
-- Cegueira 
-- Dislexia
-- Analfabetismo
-
-Sendo assim deve possuir interface e navegação bem simples e de facil utilização.
-
+1- Selecionar livros renomados.
+2- Garantir acessibilidade financeira do leitor.
+3- Facilitar a navdegção de usuarios deficientes.
+4- Garantir a segurança do cliente no momento da compra/aluguel.
 
     1.4 Justificativas
 
