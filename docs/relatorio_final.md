@@ -81,9 +81,8 @@ Caso um usuário deseje escutar um livro que não esteja disponível em áudio, 
 
 ## 3.2. Descrição Geral da proposta
 
-Nosso projeto é um aplicativo chamado "webteca", ele ira permitir que o usuário pesquise, alugue e acesse audiolivros que ele desaja ler. Caso o livro que o usuário queira não esteja disponivel na biblioteca, ele devera fazer um pedido no site, esse pedido será atendido por um dos narradores do site, um usuário autenticado, que possui a permissão de atender pedidos e criar o audiobook. Uma vez que o pedido seja atendido e o audibook seja criado, ele devera ter a sua qualidade verificada, uma vez que o audiobook seja aprovado, ele podera ser alguado pelos outros usuários do site e o narrador recebera uma parcela do dinheiro para cada vez que ele é alguado.
-Para reinforçar a qualidade do produto, usuários poderão avaliar os audilivros que eles alugam.
-Como nosso projeto tem como público alvo pessoas com deficiências visuais e anafalbetos, nosso aplicativo tera uma interfaçe que seja adequada e intuitiva para essas pessoas.
+Nosso projeto é um aplicativo chamado "webteca", ele ira permitir que o usuário pesquise, alugue e acesse audiolivros que ele desaja ler. Caso o livro que o usuário queira não esteja disponivel na biblioteca, ele devera fazer um pedido no site, esse pedido será atendido por um dos narradores do site, um usuário autenticado, que possui a permissão de atender pedidos e criar o audiolivros. Uma vez que o pedido seja atendido e o audibook seja criado, ele devera ser postado no site, onde podera ser alugado por outros usuários. Como compensação, o narrador recebera uma parcela do dinheiro para cada vez que o audiolivro é alugado. Para reinforçar a qualidade do produto, usuários poderão avaliar os audilivros que eles alugam.
+Como nosso projeto tem como público alvo pessoas com deficiências visuais e anafalbetos, nosso aplicativo também tera uma interfaçe que seja adequada e intuitiva para essas pessoas.
 
 ## 3.3. Modelagem dos Processos
 
