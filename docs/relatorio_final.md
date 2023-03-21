@@ -51,10 +51,10 @@ De acordo com o IBOPE em 2019, o Brasil perdeu 4,6 milhões de leitores nos últ
 Desenvolver um software de biblioteca virtual voltada para o publico de audiobooks.
 
         1.3.1 Objetivos específicos
-1- Selecionar livros renomados.
-2- Garantir acessibilidade financeira do leitor.
-3- Facilitar a navdegção de usuarios deficientes.
-4- Garantir a segurança do cliente no momento da compra/aluguel.
+ - Selecionar livros renomados.
+ - Garantir acessibilidade financeira do leitor.
+ - Facilitar a navdegção de usuarios deficientes.
+ - Garantir a segurança do cliente no momento da compra/aluguel.
 
     1.4 Justificativas
 
@@ -68,6 +68,8 @@ opção mais viável para os leitores já ativos e os que desejam começar.
  - Autores independentes, que desejam disponibilar sua obra em formato de audiobook.
 
  - Editoras, com o intuito de disponibilizar suas obras já publicadas para pessoas que não possuem condições de lelas.
+
+ - Narradores, que atendem a solicitação dos leitores sobre livros desejados que ainda não possuem nenhum tipo de narração em diferentes plataformas.
 
 ## 3. Modelagem do processo de negócio
 
