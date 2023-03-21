@@ -71,7 +71,7 @@ opção mais viável para os leitores já ativos e os que desejam começar.
 
  - Narradores, que atendem a solicitação dos leitores sobre livros desejados que ainda não possuem nenhum tipo de narração em diferentes plataformas.
 
- - Avaliador, participante da nossa equipe responsável por avaliar usuários que desejam ser narradores credenciados.
+ - Avaliadores, participante da nossa equipe responsável por avaliar usuários que desejam ser narradores credenciados.
 
 ## 3. Modelagem do processo de negócio
 
