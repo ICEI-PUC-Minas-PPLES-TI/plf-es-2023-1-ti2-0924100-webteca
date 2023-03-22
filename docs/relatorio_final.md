@@ -88,9 +88,9 @@ Como nosso projeto tem como público alvo pessoas com deficiências visuais e an
 
 ## 3.3. Modelagem dos Processos
 
-### 3.3.1 Processo 1 – NOME DO PROCESSO
+### 3.3.1 Processo 1 – Contratação/Cadastro na plataforma
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN.
+A contratação da plataforma consiste no processo de cadastro de novos usuários ou caso já seja cadastrado, no login. Ao cadastrar será ofertado dois planos, um premium pago sendo necessário o cadastro de um cartão de crédito, e um gratuito onde será necessario apenas o preenchimento das informações pessoais.
 
 ![Exemplo de um Modelo BPMN do PROCESSO 1](imagens/Contratação.png "Modelo BPMN do Processo 1.")
 
