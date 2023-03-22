@@ -107,6 +107,12 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 3. Em segu
 
 ![Exemplo de um Modelo BPMN do PROCESSO 3](imagens/Publicaçãodanarração.png.png "Modelo BPMN do Processo 3.")
 
+### 3.3.4 Processo 4 – Processo de leitura 
+
+Apresente aqui o nome e as oportunidades de melhorias para o processo 4. Em seguida, apresente o modelo do processo 4, descrito no padrão BPMN.
+
+![Exemplo de um Modelo BPMN do PROCESSO 4](imagens/ProcessoLeitura.png "Modelo BPMN do Processo 4.")
+
 ## 4. Projeto da Solução
 
 ### 4.1. Detalhamento das atividades
