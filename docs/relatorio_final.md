@@ -101,6 +101,12 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 
 ![Exemplo de um Modelo BPMN do PROCESSO 2](imagens/AvaliaçãoDoNarrador.png "Modelo BPMN do Processo 2.")
 
+### 3.3.3 Processo 3 – Publicação da narração 
+
+Apresente aqui o nome e as oportunidades de melhorias para o processo 3. Em seguida, apresente o modelo do processo 3, descrito no padrão BPMN.
+
+![Exemplo de um Modelo BPMN do PROCESSO 3](imagem.png "Modelo BPMN do Processo 3.")
+
 ## 4. Projeto da Solução
 
 ### 4.1. Detalhamento das atividades
