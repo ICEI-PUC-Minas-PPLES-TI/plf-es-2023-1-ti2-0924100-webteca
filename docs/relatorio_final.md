@@ -97,7 +97,7 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em segu
 
 ### 3.3.2 Processo 2 – Avaliação de narrador 
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+A avaliação do narrador consiste no processo de cadastrar novos narradores qualificados em nosso site, os quais serão armazenados em nosso banco de dados para receberem ofertas no processo de publicação das narrações.
 
 ![Exemplo de um Modelo BPMN do PROCESSO 2](imagens/AvaliaçãoDoNarrador.png "Modelo BPMN do Processo 2.")
 
