@@ -116,6 +116,8 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 4. Em segu
 ### 3.3.5 Processo 5 - Remoção de narrador
 Em certos casos, pode ser necessário remover um narrador do banco de dados. Isso pode ocorrer caso o narrador demostre comportamento inadequado, não profissional e/ou tenha violado os termos de serviço da Webteca. Também é possivel que o narrador simplismente não seja mais capaz ou não deseje mais continuar a ter esse cargo.
 
+![Exemplo de um Modelo BPMN do PROCESSO 5](imagens/RemoçãoDeNarrador.png "Modelo BPMN do Processo 5.")
+
 ## 4. Projeto da Solução
 
 ### 4.1. Detalhamento das atividades
