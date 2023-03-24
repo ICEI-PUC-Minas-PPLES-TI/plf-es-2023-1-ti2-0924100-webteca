@@ -192,7 +192,7 @@ Apresente aqui a conclusão do seu trabalho. Discussão dos resultados obtidos n
 
 **[1.1]** - _Audiobooks Market Size, Share & Trends Analysis Report By Genre, By Preferred Device (Smartphones, Laptops & Tablets, Personal Digital Assistants), By Distribution Channel, By Target Audience, By Region, And Segment Forecasts, 2023 - 2030._
 
-**[1.2]** - _Estatísticas sobre deficiência visual no Brasil e no Mundo._
+**[1.2]** - _Louis Braille Escola para Deficientes Visuais, Estatísticas sobre deficiência visual no Brasil e no Mundo, 2020._
 
 # APÊNDICES
 
