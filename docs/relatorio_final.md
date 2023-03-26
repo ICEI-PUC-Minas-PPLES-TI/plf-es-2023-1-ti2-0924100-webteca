@@ -122,7 +122,7 @@ Em certos casos, pode ser necessário remover um narrador do banco de dados. Iss
 
 Enquanto o usuário está procurando por livros que ele deseja ler, é possivel que o livro que ele queira não esteja disponivel na plataforma. Nesse caso, o usuário devera fazer um pedido que será atendido por um dos narradores da webteca. Depois disso, o livro desejado estera disponivel na plataforma para ser alugado por todos os usuários.
 
-![Exemplo de um Modelo BPMN do PROCESSO 6](imagens/Solicitação de livro.png "Modelo BPMN do Processo 6.")
+![Exemplo de um Modelo BPMN do PROCESSO 6](imagens/SolicitaçãoDeLivro.png "Modelo BPMN do Processo 6.")
 
 ## 4. Projeto da Solução
 
