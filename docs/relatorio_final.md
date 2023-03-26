@@ -103,7 +103,7 @@ A avaliação do narrador consiste no processo de cadastrar novos narradores qua
 
 ### 3.3.3 Processo 3 – Publicação da narração 
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 3. Em seguida, apresente o modelo do processo 3, descrito no padrão BPMN.
+Narradores são usuários autenticados que possuem o direito e habilidade de aceitarem pedidos de outros usários. Caso o narrador aceite um pedido, ele devera ler o livro no pedido e criar um audiobook desse livro, o qual ele também devera enviar para a Webteca.  Uma vez que isso seja feito, o novo audiolivro estara disponivel para ser alugado por todos os outros usuários do site e em troca o narrador recebera uma fração do lucro gerado pelo livro.
 
 ![Exemplo de um Modelo BPMN do PROCESSO 3](imagens/Publicaçãodanarração.png.png "Modelo BPMN do Processo 3.")
 
