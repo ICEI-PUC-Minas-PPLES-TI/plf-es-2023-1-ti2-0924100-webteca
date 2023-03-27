@@ -109,7 +109,7 @@ Narradores são usuários autenticados que possuem o direito e habilidade de ace
 
 ### 3.3.4 Processo 4 – Processo de leitura 
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 4. Em seguida, apresente o modelo do processo 4, descrito no padrão BPMN.
+A Webteca é um aplicativo cujo propósito principal é tornar audiolivros mais acessiveis para o publico. Para atingir esse objetivo, usuários poderão pesquisar livros que eles desejam, alugar, ler e avaliar. Caso o livro desejado não esteja disponível, o usuário podera solicitar uma narração e caso o usuário queira parar de ler ele podera pedir uma pausa e depois continuar lendo de onde parou. 
 
 ![Exemplo de um Modelo BPMN do PROCESSO 4](imagens/ProcessoLeitura.png "Modelo BPMN do Processo 4.")
 
