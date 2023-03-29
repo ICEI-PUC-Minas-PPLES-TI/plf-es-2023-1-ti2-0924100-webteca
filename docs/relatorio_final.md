@@ -92,7 +92,7 @@ Como nosso projeto tem como público alvo pessoas com deficiências visuais e an
 
 A contratação da plataforma consiste no processo de cadastro de novos usuários ou caso já seja cadastrado, no login. Ao cadastrar será ofertado dois planos, um premium pago sendo necessário o cadastro de um cartão de crédito, e um gratuito onde será necessario apenas o preenchimento das informações pessoais.
 
-![Exemplo de um Modelo BPMN do PROCESSO 1](imagens/3.3.1 Contratação.jpeg "Modelo BPMN do Processo 1.")
+![Exemplo de um Modelo BPMN do PROCESSO 1](imagens/Contratação.jpeg "Modelo BPMN do Processo 1.")
 
 
 ### 3.3.2 Processo 2 – Avaliação de narrador 
