@@ -111,7 +111,7 @@ Narradores são usuários autenticados que possuem o direito e habilidade de ace
 
 A Webteca é um aplicativo cujo propósito principal é tornar audiolivros mais acessiveis para o publico. Para atingir esse objetivo, usuários poderão pesquisar livros que eles desejam, alugar, ler e avaliar. Caso o livro desejado não esteja disponível, o usuário podera solicitar uma narração e caso o usuário queira parar de ler ele podera pedir uma pausa e depois continuar lendo de onde parou. 
 
-![Exemplo de um Modelo BPMN do PROCESSO 4](imagens/ProcessoLeitura.png "Modelo BPMN do Processo 4.")
+![Exemplo de um Modelo BPMN do PROCESSO 4](imagens/Processo_de_leitura.png "Modelo BPMN do Processo 4.")
 
 ### 3.3.5 Processo 5 - Remoção de narrador
 Em certos casos, pode ser necessário remover um narrador do banco de dados. Isso pode ocorrer caso o narrador demostre comportamento inadequado, não profissional e/ou tenha violado os termos de serviço da Webteca.
