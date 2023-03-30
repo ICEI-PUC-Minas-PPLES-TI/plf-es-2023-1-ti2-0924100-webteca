@@ -114,7 +114,7 @@ A Webteca é um aplicativo cujo propósito principal é tornar audiolivros mais 
 ![Exemplo de um Modelo BPMN do PROCESSO 4](imagens/ProcessoLeitura.png "Modelo BPMN do Processo 4.")
 
 ### 3.3.5 Processo 5 - Remoção de narrador
-Em certos casos, pode ser necessário remover um narrador do banco de dados. Isso pode ocorrer caso o narrador demostre comportamento inadequado, não profissional e/ou tenha violado os termos de serviço da Webteca. Também é possivel que o narrador simplismente não seja mais capaz ou não deseje mais continuar a ter esse cargo.
+Em certos casos, pode ser necessário remover um narrador do banco de dados. Isso pode ocorrer caso o narrador demostre comportamento inadequado, não profissional e/ou tenha violado os termos de serviço da Webteca.
 
 ![Exemplo de um Modelo BPMN do PROCESSO 5](imagens/RemoçãoDeNarrador.png "Modelo BPMN do Processo 5.")
 
