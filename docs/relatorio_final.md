@@ -99,7 +99,7 @@ A contratação da plataforma consiste no processo de cadastro de novos usuário
 
 A avaliação do narrador consiste no processo de cadastrar novos narradores qualificados em nosso site, os quais serão armazenados em nosso banco de dados para receberem ofertas no processo de publicação das narrações.
 
-![Exemplo de um Modelo BPMN do PROCESSO 2](imagens/AvaliaçãoDoNarrador.png "Modelo BPMN do Processo 2.")
+![Exemplo de um Modelo BPMN do PROCESSO 2](imagens/Avaliacao_de_narrador2.png "Modelo BPMN do Processo 2.")
 
 ### 3.3.3 Processo 3 – Publicação da narração 
 
