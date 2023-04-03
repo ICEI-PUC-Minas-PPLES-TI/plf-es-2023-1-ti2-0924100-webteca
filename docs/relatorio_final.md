@@ -105,7 +105,7 @@ A avaliação do narrador consiste no processo de cadastrar novos narradores qua
 
 Narradores são usuários autenticados que possuem o direito e habilidade de aceitarem pedidos de outros usários. Caso o narrador aceite um pedido, ele devera ler o livro no pedido e criar um audiobook desse livro, o qual ele também devera enviar para a Webteca.  Uma vez que isso seja feito, o novo audiolivro estara disponivel para ser alugado por todos os outros usuários do site e em troca o narrador recebera uma fração do lucro gerado pelo livro.
 
-![Exemplo de um Modelo BPMN do PROCESSO 3](imagens/Publicaçãodanarração.png.png "Modelo BPMN do Processo 3.")
+![Exemplo de um Modelo BPMN do PROCESSO 3](imagens/Publicacso_da_narracao.png "Modelo BPMN do Processo 3.")
 
 ### 3.3.4 Processo 4 – Processo de leitura 
 
