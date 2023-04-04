@@ -140,14 +140,13 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | Nome | Caixa de Texto |  |  |
 | Email | Caixa de Texto | Formato de e-mail |  |
 | Senha | Caixa de Texto | Mínimo de 8 caracteres |  |
-| CPF | Caixa de texto | 11 Numeros |  |
+| CPF | Número | 11 Numeros |  |
 
 **Escolha do metodo de pagamento**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-|    |    |     |
+| Opção | Seleção unica |  | Cartão de crédito |
 
 #### Processo 2 – Avaliação de narrador
 
