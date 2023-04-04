@@ -124,9 +124,9 @@ Em certos casos, pode ser necessário remover um narrador do banco de dados. Iss
 
 Descrever aqui cada uma das propriedades das atividades de cada um dos processos. Devem estar relacionadas com o modelo de processo apresentado anteriormente.
 
-#### Processo 1 – Contratação/Cadastro na plataforma
+#### Processo 1 – Cadastrar leitor na plataforma
 
-**Nome da atividade 1**
+**Login**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
@@ -135,7 +135,14 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | login | Caixa de Texto | formato de e-mail |  |
 | senha | Caixa de Texto | mínimo de 8 caracteres |   |
 
-**Nome da atividade 2**
+**Cadastro**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
+|    |    |     |
+
+**Escolha do metodo de pagamento**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
