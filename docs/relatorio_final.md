@@ -130,15 +130,17 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| login | Caixa de Texto | formato de e-mail |  |
-| senha | Caixa de Texto | mínimo de 8 caracteres |   |
+| login | Caixa de Texto | Formato de e-mail |  |
+| senha | Caixa de Texto | Mínimo de 8 caracteres |   |
 
 **Cadastro**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | Nome | Caixa de Texto |  |  |
-| Email | Caixa de Texto | formato de e-mail |  |
+| Email | Caixa de Texto | Formato de e-mail |  |
+| Senha | Caixa de Texto | Mínimo de 8 caracteres |  |
+| CPF | Caixa de texto | 11 Numeros |  |
 
 **Escolha do metodo de pagamento**
 
