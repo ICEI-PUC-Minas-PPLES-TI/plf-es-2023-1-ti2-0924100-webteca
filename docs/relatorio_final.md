@@ -206,6 +206,13 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
 |    |    |     |
 
+**Remover narrador**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
+|    |    |     |
+
 **Enviar notificação**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
