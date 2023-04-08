@@ -205,7 +205,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | Nome do narrador | Caixa de Texto |  |  |
 | Reclamação | Caixa de Texto |  |  |
 
-**Enviar notificação**
+**Enviar notificação de remoção**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
