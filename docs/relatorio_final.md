@@ -159,16 +159,12 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | Senha | Caixa de Texto | Mínimo de 8 caracteres |  |
 | CPF | Número | 11 Numeros |  |
 
-|    |    |     |
-
-**Cadastro de narrador**
+**Receber solicitção**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | Aceitar | botão | |  |
 | Recusar | botão | |  |
-
-|    |    |     |
 
 **Nome da atividade 2**
 
