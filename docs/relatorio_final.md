@@ -173,13 +173,6 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | Aprovado | botão | |  |
 | Recusado | botão | |  |
 
-**Nome da atividade 2**
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-|    |    |     |
-
 #### Processo 3 – Publicação da narração
 
 **Nome da atividade 1**
