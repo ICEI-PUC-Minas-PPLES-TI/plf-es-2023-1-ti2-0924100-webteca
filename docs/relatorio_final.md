@@ -166,6 +166,13 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | Aceitar | botão | |  |
 | Recusar | botão | |  |
 
+**Análise de narrador**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Aprovado | botão | |  |
+| Recusado | botão | |  |
+
 **Nome da atividade 2**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
