@@ -148,13 +148,17 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | --- | --- | --- | --- |
 | Opção | Seleção unica |  | Cartão de crédito |
 
-#### Processo 2 – Avaliação de narrador
+#### Processo 2 – Credenciamento de narrador
 
-**Nome da atividade 1**
+**Cadastro de narrador**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
+| Nome | Caixa de Texto |  |  |
+| Email | Caixa de Texto | Formato de e-mail |  |
+| Senha | Caixa de Texto | Mínimo de 8 caracteres |  |
+| CPF | Número | 11 Numeros |  |
+
 |    |    |     |
 
 **Nome da atividade 2**
