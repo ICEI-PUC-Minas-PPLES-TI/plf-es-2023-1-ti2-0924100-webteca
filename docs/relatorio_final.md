@@ -161,6 +161,15 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 |    |    |     |
 
+**Cadastro de narrador**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Aceitar | botão | |  |
+| Recusar | botão | |  |
+
+|    |    |     |
+
 **Nome da atividade 2**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
