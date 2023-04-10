@@ -218,7 +218,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 #### Processo 5 - Remoção de narrador
 
-**Enviar uma reclamação sobre o narrador**
+**Enviar uma reclamação sobre um narrador**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
