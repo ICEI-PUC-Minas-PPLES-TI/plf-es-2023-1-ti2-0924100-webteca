@@ -163,15 +163,15 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Aceitar | botão | |  |
-| Recusar | botão | |  |
+| Aceitar | Botão | |  |
+| Recusar | Botão | |  |
 
 **Análise de narrador**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Aprovado | botão | |  |
-| Recusado | botão | |  |
+| Aprovado | Botão | |  |
+| Recusado | Botão | |  |
 
 #### Processo 3 – Publicação da narração
 
@@ -179,9 +179,9 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| tema do livro | Caixa de texto|  |  |
-|  Concluído  |  botão  |     |
-|  Cancelar  |  botão  |     |
+| Tema do livro | Caixa de texto|  |  |
+|  Concluído  |  Botão  |     |
+|  Cancelar  |  Botão  |     |
 
 **Postar narração**
 
