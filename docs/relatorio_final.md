@@ -225,11 +225,12 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | Nome do narrador | Caixa de Texto |  |  |
 | Reclamação | Caixa de Texto |  |  |
 
-**Enviar notificação de remoção**
+**Avaliar se a reclamação é válida**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Motivo de remoção | Caixa de Texto |  |  |
+| Aceitar | Botão |  |  |
+| Rejeitar | Botão |  |  |
 
 ### 4.2. Tecnologias
 
