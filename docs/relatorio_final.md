@@ -175,19 +175,21 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 #### Processo 3 – Publicação da narração
 
-**Nome da atividade 1**
+**Escolha do livro**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-|    |    |     |
+| tema do livro | Caixa de texto|  |  |
+|  Concluído  |  botão  |     |
+|  Cancelar  |  botão  |     |
 
-**Nome da atividade 2**
+**Postar narração**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-|    |    |     |
+| Adicionar arquivo | Arquivo | Mp3 |  |
+|  Postar  |  Botão  |     |
+|  Cancelar  |  Botão  |     |
 
 #### Processo 4 - Processo de leitura
 
