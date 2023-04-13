@@ -126,27 +126,28 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 #### Processo 1 – Cadastrar leitor na plataforma
 
-**Login**
+**Realizar login**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | login | Caixa de Texto | Formato de e-mail |  |
 | senha | Caixa de Texto | Mínimo de 8 caracteres |   |
 
-**Cadastro**
+**Cadastrar leitor**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | Nome | Caixa de Texto |  |  |
 | Email | Caixa de Texto | Formato de e-mail |  |
 | Senha | Caixa de Texto | Mínimo de 8 caracteres |  |
+| Confirmação de senha | Caixa de texto | Identica a anteriro |  |
 | CPF | Número | 11 Numeros |  |
 
-**Escolha do metodo de pagamento**
+**Escolher metodo de pagamento**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Opção | Seleção unica |  | Cartão de crédito |
+| Opção | Seleção unica | Crédido/Debito/Pix/Boleto | Cartão de crédito |
 
 #### Processo 2 – Credenciamento de narrador
 
