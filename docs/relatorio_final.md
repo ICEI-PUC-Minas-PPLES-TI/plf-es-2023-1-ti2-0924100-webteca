@@ -130,8 +130,8 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| login | Caixa de Texto | Formato de e-mail |  |
-| senha | Caixa de Texto | Mínimo de 8 caracteres |   |
+| Email | Caixa de Texto | Formato de e-mail |  |
+| Senha | Caixa de Texto | Mínimo de 8 caracteres |   |
 
 **Cadastrar leitor**
 
