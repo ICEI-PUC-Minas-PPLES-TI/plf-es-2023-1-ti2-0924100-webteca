@@ -151,7 +151,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 #### Processo 2 – Credenciamento de narrador
 
-**Cadastro de narrador**
+**Cadastrar narrador**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
@@ -168,14 +168,14 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | Currículo | Arquivo | |  |
 | Enviar | Seleção unica | Enviar ou Cancelar| Enviar|
 
-**Receber solicitção**
+**Avaliar solicitação**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | Nome | Caixa de Texto | |  |
 | Aceitar | Seleção unica |Sim ou Não | Sim |
 
-**Análise de narrador**
+**Analisar competência do narrador**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
