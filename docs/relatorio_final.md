@@ -158,7 +158,6 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | Nome | Caixa de Texto |  |  |
 | Email | Caixa de Texto | Formato de e-mail |  |
 | Senha | Caixa de Texto | Mínimo de 8 caracteres |  |
-| Confirmação de senha | Caixa de texto | Identica a anterior |  |
 | CPF | Número | 11 Numeros |  |
 
 **Receber solicitção**
@@ -200,23 +199,9 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | Pesquisar Livro | Caixa de Texto | Nome do livro, nome do escritor ou categoria |  |
-|  Buscar  |  Botão  |     |
-
-**Solicitar narração**
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| Solicitar narração | Botão  |  |  |
-|  Cancelar  |  Botão  |     |
-
-**Disponibilizar arquivo de leitura**
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| Adicionar arquivo | Arquivo | Mp3 |  |
-|  Disponibilizar  |  Botão  |     |
-|  Cancelar  |  Botão  |     |
-
+|  Nome do livro  |  Tabela  |     |
+|  Nome do escritor  |  Tabela  |     |
+|  Categoria   |  Tabela  |     |
 
 #### Processo 5 - Remoção de narrador
 
