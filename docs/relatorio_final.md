@@ -160,19 +160,27 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | Senha | Caixa de Texto | Mínimo de 8 caracteres |  |
 | CPF | Número | 11 Numeros |  |
 
+**Cadastrar currículo**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Currículo | Arquivo | |  |
+| Enviar | Seleção unica | Enviar ou Cancelar| Enviar|
+
 **Receber solicitção**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Aceitar | Botão | |  |
-| Recusar | Botão | |  |
+| Nome | Caixa de Texto | |  |
+| Aceitar | Seleção unica |Sim ou Não | Sim |
 
 **Análise de narrador**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Aprovado | Botão | |  |
-| Recusado | Botão | |  |
+| Nome | Caixa de Texto | |  |
+| Currículo | Arquivo | |  |
+| Aprovado | Seleção unica |Sim ou Não | Sim |
 
 #### Processo 3 – Publicação da narração
 
