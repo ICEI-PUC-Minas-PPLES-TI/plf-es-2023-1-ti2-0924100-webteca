@@ -189,17 +189,19 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Tema do livro | Caixa de texto|  |  |
-|  Concluído  |  Botão  |     |
-|  Cancelar  |  Botão  |     |
+| pesquisar nome do livro | tabela |  |  |
+| pesquisar nome do autor | tabela |  |  |
+| pesquisar tema | tabela |  |  |
+| pesquisar edição | tabela |  |  |
+| pesquisar idioma | tabela |  |  |
+|  selecionar livro  |  botão  |     |
 
 **Postar narração**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | Adicionar arquivo | Arquivo | Mp3 |  |
-|  Postar  |  Botão  |     |
-|  Cancelar  |  Botão  |     |
+|  Aceitar  |  Seleção única  |  Sim ou Não   |
 
 #### Processo 4 - Processo de leitura
 
