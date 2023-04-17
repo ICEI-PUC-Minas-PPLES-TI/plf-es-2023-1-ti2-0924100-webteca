@@ -230,7 +230,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | Nome do narrador | Caixa de Texto |  |  |
 | Nome do leitor | Caixa de Texto |  | Nome de usuário do leitor |
 | Reclamação | Caixa de Texto |  |  |
-| Validar? | Seleção única | Sim ou Não |  |
+| Validar | Seleção única | Sim ou Não |  |
 
 ### 4.2. Tecnologias
 
