@@ -228,7 +228,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | Nome do narrador | Caixa de Texto |  |  |
-| Nome do remetente | Caixa de Texto |  |  |
+| Nome do leitor | Caixa de Texto |  |  |
 | Reclamação | Caixa de Texto |  |  |
 | Aceitar | Botão |  |  |
 | Rejeitar | Botão |  |  |
