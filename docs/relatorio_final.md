@@ -238,7 +238,7 @@ Descreva qual(is) tecnologias você vai usar para resolver o seu problema, ou se
 
 ## 5. Modelo de dados
 
-![Diagrama de Entidade Relacionamento de Exemplo](imagens/ModeloDados.png "Diagrama de Entidade Relacionamento de Exemplo")
+![Diagrama de Entidade Relacionamento de Exemplo](imagens/BDrel.png "Diagrama de Entidade Relacionamento de Exemplo")
 
 ## 6. Indicadores de desempenho
 
