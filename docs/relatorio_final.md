@@ -157,9 +157,10 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | --- | --- | --- | --- |
 | Nome | Caixa de Texto |  |  |
 | Email | Caixa de Texto | Formato de e-mail |  |
+| Celular | Número | 11 Números |  |
 | Senha | Caixa de Texto | Mínimo de 8 caracteres |  |
 | Confirmação de senha | Caixa de texto | Identica a anterior |  |
-| CPF | Número | 11 Numeros |  |
+| CPF | Número | 11 Números |  |
 
 **Cadastrar currículo**
 
