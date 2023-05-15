@@ -52,7 +52,7 @@ form.sign-up-form{
 }
 .title{
     font-size: 35px;
-    color: #ef8092;
+    color: #77e2e2;
     margin-bottom: 10px;
 }
 
@@ -62,7 +62,7 @@ form.sign-up-form{
     height: 50px;
     background: #f0f0f0;
     margin: 10px 0;
-    border: 2px solid #ef8092;
+    border: 2px solid #a8c4ed;
     border-radius: 50px;
     display: flex;
     align-items: center;
@@ -90,7 +90,7 @@ form.sign-up-form{
     height: 50px;
     background: #f0f0f0;
     margin: 10px 0;
-    border: 2px solid #ef8092;
+    border: 2px solid #a8c4ed;
     border-radius: 50px;
     display: flex;
     align-items: center;
@@ -125,14 +125,28 @@ form.sign-up-form{
     cursor: pointer;
 }
 .btn:hover{
-    background: plum;
+    background: #ef8092;
 }
+.Fechar{
+    width: 100%;
+    margin-top: 50px;
+    padding: 10px 0;
+    background: #10cfcf;
+    border: 0;
+    font-size: 18px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.Fechar:hover{
+    background: #ef8092;
+}
+
 
 
 .popup-1{
     width: 400px;
     height: 250px;
-    background-color: lightcoral;
+    background-color: white;
     border-radius: 6px;
     position: absolute;
     top: 0%;
@@ -141,16 +155,18 @@ form.sign-up-form{
     text-align: center;
     padding: 0 30px 30px;
     visibility: hidden;
+    box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
 }
 .popup-1 h2{
     font-size: 38px;
     font-weight: 500;
     margin: 30px 0 10px; 
 }
+
 .popup-2{
     width: 400px;
     height: 250px;
-    background-color: lightcoral;
+    background-color: white;
     border-radius: 6px;
     position: absolute;
     top: 0%;
@@ -168,7 +184,7 @@ form.sign-up-form{
 .popup-3{
     width: 400px;
     height: 250px;
-    background-color: lightcoral;
+    background-color: white;
     border-radius: 6px;
     position: absolute;
     top: 0%;
@@ -186,7 +202,7 @@ form.sign-up-form{
 .popup-4{
     width: 400px;
     height: 250px;
-    background-color: lightgreen;
+    background-color: white;
     border-radius: 6px;
     position: absolute;
     top: 0%;
