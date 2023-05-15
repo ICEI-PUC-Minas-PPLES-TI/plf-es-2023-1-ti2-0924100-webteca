@@ -99,7 +99,7 @@ O cadastro de leitor na plataforma consiste no processo de cadastro de novos usu
 
 O Credenciamento do narrador consiste no processo de cadastrar novos narradores qualificados em nosso site, os quais serão armazenados em nosso banco de dados para receberem ofertas no processo de publicação das narrações.
 
-![Exemplo de um Modelo BPMN do PROCESSO 2](imagens/credenciamento.png "Modelo BPMN do Processo 2.")
+![Exemplo de um Modelo BPMN do PROCESSO 2](imagens/Credenciamentodenarrador "Modelo BPMN do Processo 2.")
 
 ### 3.3.3 Processo 3 – Publicação da narração 
 
