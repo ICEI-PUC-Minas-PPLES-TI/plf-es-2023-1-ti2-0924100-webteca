@@ -161,20 +161,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | Senha | Caixa de Texto | Mínimo de 8 caracteres |  |
 | Confirmação de senha | Caixa de texto | Identica a anterior |  |
 | CPF | Número | 11 Números |  |
-
-**Cadastrar currículo**
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
 | Currículo | Arquivo | |  |
-| Enviar | Seleção unica | Enviar ou Cancelar| Enviar|
-
-**Avaliar solicitação**
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| Nome | Caixa de Texto | |  |
-| Aceitar | Seleção unica |Sim ou Não | Sim |
 
 **Analisar competência do narrador**
 
