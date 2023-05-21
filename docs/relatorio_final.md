@@ -239,18 +239,11 @@ As linguagens utilizadas foram:
 ![Diagrama de Entidade Relacionamento de Exemplo](imagens/BDrel.png "Diagrama de Entidade Relacionamento de Exemplo")
 
 ## 6. Indicadores de desempenho
-
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores.
-
-Usar o seguinte modelo:
-
 | **Indicador** | **Objetivos** | **Descrição** | **Cálculo** | **Fonte dados** | **Perspectiva** |
 | --- | --- | --- | --- | --- | --- |
-| Percentual reclamações | Avaliar quantitativamente as reclamações | Percentual de reclamações em relação ao total atendimento |   | Tabela reclamações | Aprendizado e Crescimento |
+| Tempo de respota da reclamação | Avaliar o tempo que o avaliador gasta para responder a uma reclamação | tempo de resposta apartir do momento que a reclamação é enviada |   | Remoção de narrador | Processos internos |
 | Taxa de Requisições abertas | Melhorar a prestação de serviços medindo a porcentagem de requisições | Mede % de requisições atendidas na semana | ![\frac{\sum{atendidas}}{\sum{requisicoes}}100](https://latex.codecogs.com/svg.latex?\frac{\sum{atendidas}}{\sum{requisicoes}}100) | Tabela solicitações | Processos internos |
 | Taxa de entrega de material | Manter controle sobre os materiais que estão sendo entregues | Mede % de material entregue dentro do mês |   | Tabela Pedidos | Clientes |
-
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe **a ser proposto**
 
 ## 7.Sistema desenvolvido
 
