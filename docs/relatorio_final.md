@@ -242,7 +242,7 @@ As linguagens utilizadas foram:
 | **Indicador** | **Objetivos** | **Descrição** | **Cálculo** | **Fonte dados** | **Perspectiva** |
 | --- | --- | --- | --- | --- | --- |
 | Tempo de respota da reclamação | Avaliar o tempo que o avaliador gasta para responder a uma reclamação | tempo de resposta apartir do momento que a reclamação é enviada |   | Remoção de narrador | Processos internos |
-| Taxa de Requisições abertas | Melhorar a prestação de serviços medindo a porcentagem de requisições | Mede % de requisições atendidas na semana | ![\frac{\sum{atendidas}}{\sum{requisicoes}}100](https://latex.codecogs.com/svg.latex?\frac{\sum{atendidas}}{\sum{requisicoes}}100) | Tabela solicitações | Processos internos |
+| Tempo de resposta do Credenciamento de narrador | Avaliar o tempo que o avaliador gasta para responder a uma solicitação de credenciamento | tempo de resposta apartir do momento que a solicitação é enviada |   | Credenciamento de narrador | Processos internos |
 | Taxa de entrega de material | Manter controle sobre os materiais que estão sendo entregues | Mede % de material entregue dentro do mês |   | Tabela Pedidos | Clientes |
 
 ## 7.Sistema desenvolvido
