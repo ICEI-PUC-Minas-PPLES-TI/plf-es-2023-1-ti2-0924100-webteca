@@ -233,7 +233,6 @@ As linguagens utilizadas foram:
  - CSS
  - JavaScript
 
-
 ## 5. Modelo de dados
 
 ![Diagrama de Entidade Relacionamento de Exemplo](imagens/BDrel.png "Diagrama de Entidade Relacionamento de Exemplo")
@@ -241,9 +240,9 @@ As linguagens utilizadas foram:
 ## 6. Indicadores de desempenho
 | **Indicador** | **Objetivos** | **Descrição** | **Cálculo** | **Fonte dados** | **Perspectiva** |
 | --- | --- | --- | --- | --- | --- |
-| Tempo de respota da reclamação | Avaliar o tempo que o avaliador gasta para responder a uma reclamação | tempo de resposta apartir do momento que a reclamação é enviada |   | Remoção de narrador | Processos internos |
-| Tempo de resposta do Credenciamento de narrador | Avaliar o tempo que o avaliador gasta para responder a uma solicitação de credenciamento | tempo de resposta apartir do momento que a solicitação é enviada |   | Credenciamento de narrador | Processos internos |
-| Taxa de entrega de material | Manter controle sobre os materiais que estão sendo entregues | Mede % de material entregue dentro do mês |   | Tabela Pedidos | Clientes |
+| Tempo de respota da reclamação | Avaliar o tempo que o avaliador gasta para responder a uma reclamação | Tempo de resposta apartir do momento que a reclamação é enviada |   | Remoção de narrador | Processos internos |
+| Tempo de resposta do Credenciamento de narrador | Avaliar o tempo que o avaliador gasta para responder a uma solicitação de credenciamento | Tempo de resposta apartir do momento que a solicitação é enviada |   | Credenciamento de narrador | Processos internos |
+| Tempo de postagem de narração | Avaliar o tempo necessário para uma narração ser postada | Tempo de resposta apartir do momento que a narração é solicitada |   | Publicação da narração | Clientes |
 
 ## 7.Sistema desenvolvido
 
