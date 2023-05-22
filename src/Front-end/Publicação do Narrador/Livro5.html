@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Página do Livro</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url("img/fundo.jpg");
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #ef8092;
+            text-align: center;
+            margin-top: 0;
+        }
+
+        .book-container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .book-info {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .book-info img {
+            width: 150px;
+            height: 200px;
+            margin-right: 20px;
+        }
+
+        .book-details {
+            flex: 1;
+        }
+
+        .book-details p {
+            margin: 5px 0;
+            font-size: 16px;
+            color: #555;
+        }
+
+        .upload-form {
+            margin-top: 20px;
+        }
+
+        .upload-form label {
+            display: block;
+            font-size: 18px;
+            color: #10cfcf;
+            margin-bottom: 5px;
+        }
+
+        .upload-form input[type="file"] {
+            margin-bottom: 10px;
+        }
+
+        .upload-form button {
+            font-size: 16px;
+            padding: 10px 20px;
+            background-color: #ef8092;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .upload-form button:hover {
+            background-color: #10cfcf;
+        }
+    </style>
+</head>
+<body>
+    <div class="book-container">
+        <h1>O poder do hábito: Por que fazemos o que fazemos na vida e nos negócios</h1>
+        <div class="book-info">
+            <img src="img/5.jpg" alt="Capa do Livro">
+            <div class="book-details">
+                <p>Autor: Charles Duhigg</p>
+                <p>Idioma: Português</p>
+                <p>Editora: Objetiva</p>
+                <p>Data de Publicação: 01/10/2012</p>
+                <p>Descrição: Durante os últimos dois anos, uma jovem transformou quase todos os aspectos de sua vida. Parou de fumar, correu uma maratona e foi promovida. Em um laboratório, neurologistas descobriram que os padrões dentro do cérebro dela mudaram de maneira fundamental.
+                    Publicitários da Procter & Gamble observaram vídeos de pessoas fazendo a cama. Tentavam desesperadamente descobrir como vender um novo produto chamado Febreze, que estava prestes a se tornar um dos maiores fracassos na história da empresa. De repente, um deles detecta um padrão quase imperceptível - e, com uma sutil mudança na campanha publicitária, Febreze começa a vender um bilhão de dólares por anos.
+                    Um diretor executivo pouco conhecido assume uma das maiores empresas norte-americanas. Seu primeiro passo é atacar um único padrão entre os funcionários - a maneira como lidam com a segurança no ambiente de trabalho -, e logo a empresa começa a ter o melhor desempenho no índice Dow Jones.
+                    O que todas essas pessoas tem em comum? Conseguiram ter sucesso focando em padrões que moldam cada aspecto de nossas vidas. Tiveram êxito transformando hábitos. Com perspicácia e habilidade, Charles Duhigg apresenta um novo entendimento da natureza humana e seu potencial para a transformação.</p>
+            </div>
+        </div>
+        <form class="upload-form" action="/enviar-narracao" method="post" enctype="multipart/form-data">
+            <label for="audio">Enviar Narração:</label>
+            <input type="file" id="audio" name="audio" accept="audio/*">
+            <button type="submit">Enviar</button>
+        </form>
+    </div>
+</body>
+</html>

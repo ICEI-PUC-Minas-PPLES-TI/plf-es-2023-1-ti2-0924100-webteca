@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Página do Livro</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url("img/fundo.jpg");
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #ef8092;
+            text-align: center;
+            margin-top: 0;
+        }
+
+        .book-container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .book-info {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .book-info img {
+            width: 150px;
+            height: 200px;
+            margin-right: 20px;
+        }
+
+        .book-details {
+            flex: 1;
+        }
+
+        .book-details p {
+            margin: 5px 0;
+            font-size: 16px;
+            color: #555;
+        }
+
+        .upload-form {
+            margin-top: 20px;
+        }
+
+        .upload-form label {
+            display: block;
+            font-size: 18px;
+            color: #10cfcf;
+            margin-bottom: 5px;
+        }
+
+        .upload-form input[type="file"] {
+            margin-bottom: 10px;
+        }
+
+        .upload-form button {
+            font-size: 16px;
+            padding: 10px 20px;
+            background-color: #ef8092;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .upload-form button:hover {
+            background-color: #10cfcf;
+        }
+    </style>
+</head>
+<body>
+    <div class="book-container">
+        <h1>Mindset: A nova psicologia do sucesso</h1>
+        <div class="book-info">
+            <img src="img/6.jpg" alt="Capa do Livro">
+            <div class="book-details">
+                <p>Autor: Carol Dweck</p>
+                <p>Idioma: Português</p>
+                <p>Editora: Objetiva</p>
+                <p>Data de Publicação: 24/01/2017</p>
+                <p>Descrição:Carol S. Dweck, professora de psicologia na Universidade Stanford e especialista internacional em sucesso e motivação, desenvolveu, ao longo de décadas de pesquisa, um conceito fundamental: a atitude mental com que encaramos a vida, que ela chama de "mindset", é crucial para o sucesso. Dweck revela de forma brilhante como o sucesso pode ser alcançado pela maneira como lidamos com nossos objetivos. O mindset não é um mero traço de personalidade, é a explicação de por que somos otimistas ou pessimistas, bem-sucedidos ou não. Ele define nossa relação com o trabalho e com as pessoas e a maneira como educamos nossos filhos. É um fator decisivo para que todo o nosso potencial seja explorado.</p>
+            </div>
+        </div>
+        <form class="upload-form" action="/enviar-narracao" method="post" enctype="multipart/form-data">
+            <label for="audio">Enviar Narração:</label>
+            <input type="file" id="audio" name="audio" accept="audio/*">
+            <button type="submit">Enviar</button>
+        </form>
+    </div>
+</body>
+</html>

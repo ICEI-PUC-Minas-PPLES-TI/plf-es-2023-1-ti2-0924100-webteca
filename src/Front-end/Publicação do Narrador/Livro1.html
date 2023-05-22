@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Página do Livro</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url("img/fundo.jpg");
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #ef8092;
+            text-align: center;
+            margin-top: 0;
+        }
+
+        .book-container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .book-info {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .book-info img {
+            width: 150px;
+            height: 200px;
+            margin-right: 20px;
+        }
+
+        .book-details {
+            flex: 1;
+        }
+
+        .book-details p {
+            margin: 5px 0;
+            font-size: 16px;
+            color: #555;
+        }
+
+        .upload-form {
+            margin-top: 20px;
+        }
+
+        .upload-form label {
+            display: block;
+            font-size: 18px;
+            color: #10cfcf;
+            margin-bottom: 5px;
+        }
+
+        .upload-form input[type="file"] {
+            margin-bottom: 10px;
+        }
+
+        .upload-form button {
+            font-size: 16px;
+            padding: 10px 20px;
+            background-color: #ef8092;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .upload-form button:hover {
+            background-color: #10cfcf;
+        }
+    </style>
+</head>
+<body>
+    <div class="book-container">
+        <h1>O óbvio também precisa ser dito</h1>
+        <div class="book-info">
+            <img src="img/1.jpg" alt="Capa do Livro">
+            <div class="book-details">
+                <p>Autor: Guilherme Pintto</p>
+                <p>Idioma: Português</p>
+                <p>Editora: Outro Planeta</p>
+                <p>Data de Publicação: 27/05/2019</p>
+                <p>Descrição:Estamos quase sempre ocupados com o desejo de não ficarmos tão ocupados no futuro. As plataformas às quais nos conectamos vendam nossos olhos: a ATENÇÃO é o ouro do agora.
+                    O computador resolve "quase" tudo, os algoritmos estão sempre à nossa disposição, o tempo todo. Mas, e a nossa comunicação? O nosso tempo com o outro? O que entala? O que vai somando no inconsciente, trancando na garganta, fazendo o corpo ter dificuldade para digerir? Pais que dão presentes por não estarem presentes, jovens que vêm acreditando que a interação nas redes sociais é mais importante que exercer o afeto off-line, nós que vamos deixando passar, deixando de dizer, porque é menos uma coisa para lidar...
+                    
+                    O objetivo deste livro é falar do óbvio, como o próprio título já diz. Afinal, se fosse tão óbvio assim, que diabos estaríamos fazendo aqui?</p>
+            </div>
+        </div>
+        <form class="upload-form" action="/enviar-narracao" method="post" enctype="multipart/form-data">
+            <label for="audio">Enviar Narração:</label>
+            <input type="file" id="audio" name="audio" accept="audio/*">
+            <button type="submit">Enviar</button>
+        </form>
+    </div>
+</body>
+</html>
