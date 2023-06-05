@@ -202,19 +202,20 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 |  Nome do escritor  |  Tabela  |     |
 |  Categoria   |  Tabela  |     |
 
-#### Processo 5 - Remoção de narrador
+#### Processo 5 - Remoção de livro
 
-**Enviar uma reclamação sobre um narrador**
+**Enviar uma reclamação sobre um livro**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Nome do narrador | Caixa de Texto |  |  |
+| Nome do livro | Caixa de Texto |  |  |
 | Reclamação | Caixa de Texto |  |  |
 
 **Avaliar se a reclamação é válida**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
+| Nome do livro | Caixa de Texto |  |  |
 | Nome do narrador | Caixa de Texto |  |  |
 | Nome do leitor | Caixa de Texto |  | Nome de usuário do leitor |
 | Reclamação | Caixa de Texto |  |  |
