@@ -53,7 +53,7 @@ Desenvolver um software de biblioteca virtual voltada para o publico de audioboo
         1.3.1 Objetivos específicos
  - Selecionar livros renomados.
  - Garantir acessibilidade financeira do leitor.
- - Facilitar a navdegção de usuarios deficientes.
+ - Facilitar a navegação de usuarios deficientes.
  - Garantir a segurança do cliente no momento da compra/aluguel.
 
         1.4 Justificativas
@@ -113,8 +113,8 @@ A Webteca é um aplicativo cujo propósito principal é tornar audiolivros mais 
 
 ![Exemplo de um Modelo BPMN do PROCESSO 4](imagens/ProcessoLeitura.png "Modelo BPMN do Processo 4.")
 
-### 3.3.5 Processo 5 - Remoção de narrador
-Em certos casos, pode ser necessário remover um narrador do banco de dados. Isso pode ocorrer caso o narrador demostre comportamento inadequado, não profissional e/ou tenha violado os termos de serviço da Webteca.
+### 3.3.5 Processo 5 - Remoção de Livro
+Em certos casos, pode ser necessário remover um livro do banco de dados. Isso pode ocorrer caso o audiolivro em questão não possua uma qualidade adequada e/ou tenha violado os termos de serviço da Webteca.
 
 ![Exemplo de um Modelo BPMN do PROCESSO 5](imagens/RemoçãoDeNarrador.png "Modelo BPMN do Processo 5.")
 
