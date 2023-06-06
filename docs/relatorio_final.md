@@ -228,6 +228,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
  - VS Code como ambiente de programação
  - MySQL Workbench como ferramenta para criação do modelo de dados
  - Free Sql Database
+ - ChatGPT
 
 As linguagens utilizadas foram:
  - NodeJS
