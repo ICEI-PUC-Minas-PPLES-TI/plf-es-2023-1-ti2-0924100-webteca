@@ -204,21 +204,21 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 #### Processo 5 - Remoção de livro
 
-**Enviar uma reclamação sobre um livro**
+**Enviar uma pedido de remoção de livro**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | Nome do livro | Caixa de Texto |  |  |
-| Reclamação | Caixa de Texto |  |  |
+| Motivo de remoção | Caixa de Texto |  |  |
 
-**Avaliar se a reclamação é válida**
+**Avaliar se o pedido é válido**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | Nome do livro | Caixa de Texto |  |  |
-| Nome do narrador | Caixa de Texto |  |  |
+| Nome do narrador | Caixa de Texto |  | Nome do narrador que postou o livro |
 | Nome do leitor | Caixa de Texto |  | Nome de usuário do leitor |
-| Reclamação | Caixa de Texto |  |  |
+| Motivo de remoção | Caixa de Texto |  |  |
 | Validar | Seleção única | Sim ou Não |  |
 
 ### 4.2. Tecnologias
@@ -227,8 +227,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
  - Lucid como ferramenta para desenho dos processos
  - VS Code como ambiente de programação
  - MySQL Workbench como ferramenta para criação do modelo de dados
- - Free Sql Database
- - ChatGPT
+ - Free Sql Database como ferramenta de armazenamento do banco de dados
 
 As linguagens utilizadas foram:
  - NodeJS
