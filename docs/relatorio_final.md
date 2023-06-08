@@ -227,7 +227,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
  - Lucid como ferramenta para desenho dos processos
  - VS Code como ambiente de programação
  - MySQL Workbench como ferramenta para criação do modelo de dados
- - Free Sql Database como ferramenta de armazenamento do banco de dados
+ - Microsoft Azure como ferramente de criação de banco de dados
 
 As linguagens utilizadas foram:
  - NodeJS
