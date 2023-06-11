@@ -219,6 +219,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | Nome do narrador | Caixa de Texto |  | Nome do narrador que postou o livro |
 | Nome do leitor | Caixa de Texto |  | Nome de usuário do leitor |
 | Motivo de remoção | Caixa de Texto |  |  |
+| Data de Envio | Caixa de texto |  | Data em que o pedido foi enviado |
 | Validar | Seleção única | Sim ou Não |  |
 
 ### 4.2. Tecnologias
