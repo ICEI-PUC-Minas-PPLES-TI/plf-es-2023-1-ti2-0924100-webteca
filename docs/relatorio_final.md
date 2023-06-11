@@ -243,11 +243,12 @@ As linguagens utilizadas foram:
 ## 6. Indicadores de desempenho
 | **Indicador** | **Objetivos** | **Descrição** | **Cálculo** | **Fonte dados** | **Perspectiva** |
 | --- | --- | --- | --- | --- | --- |
-| Tempo de respota da reclamação | Avaliar o tempo que o avaliador gasta para responder a uma reclamação | Tempo de resposta apartir do momento que a reclamação é enviada |   | Remoção de narrador | Processos internos |
+| Tempo de respota do pedido de remoção | Avaliar o tempo que o avaliador gasta para responder a um pedido de remoção de livro | Tempo de resposta apartir do momento que o pedido é enviado |   | Pedido de remoção de audiolivro | Processos internos |
 | Tempo de resposta do Credenciamento de narrador | Avaliar o tempo que o avaliador gasta para responder a uma solicitação de credenciamento | Tempo de resposta apartir do momento que a solicitação é enviada |   | Credenciamento de narrador | Processos internos |
 | Tempo de aceitação de pedido | Avaliar o tempo necessário para um pedido de narração ser aceitado | Tempo de resposta apartir do momento que a narração é solicitada |   | Publicação da narração | Clientes |
 | Tempo de postagem de narração | Medir o tempo necessário para uma narração/livro ser postado | Tempo de resposta apartir do momento que o pedido de narração é aceito |   | Publicação da narração | Clientes |
 | Tempo de  abertura do livro | Medir o tempo que o leitor vai precisar para abrir o livro | Tempo de resposta apartir do momento que o leitor apertar o botão ler livro |   | Processo de leitura | Clientes | 
+
 ## 7.Sistema desenvolvido
 
 Faça aqui uma breve descrição do software e coloque as principais telas com uma explicação de como usar cada uma.
