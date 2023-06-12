@@ -200,7 +200,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | Pesquisar Livro | Caixa de Texto | Nome do livro, nome do escritor ou categoria |  |
 |  Nome do livro  |  Tabela  |     |
 |  Nome do escritor  |  Tabela  |     |
-|  Categoria   |  Tabela  |     |
+
 
 #### Processo 5 - Remoção de livro
 
