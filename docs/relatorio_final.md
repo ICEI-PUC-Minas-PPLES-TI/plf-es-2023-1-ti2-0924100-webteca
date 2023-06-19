@@ -173,25 +173,22 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 #### Processo 2 – Credenciamento de narrador
 
-**Cadastrar narrador**
+**Enviar pedido de credenciamento de narrador**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Nome | Caixa de Texto |  |  |
-| Email | Caixa de Texto | Formato de e-mail |  |
-| Celular | Número | 11 Números |  |
-| Senha | Caixa de Texto | Mínimo de 8 caracteres |  |
-| Confirmação de senha | Caixa de texto | Identica a anterior |  |
-| CPF | Número | 11 Números |  |
-| Currículo | Arquivo | |  |
+| Currículo | Arquivo | Tem que estár no formato pdf |  |
 
 **Analisar competência do narrador**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Nome | Caixa de Texto | |  |
 | Currículo | Arquivo | |  |
-| Aprovado | Seleção unica |Sim ou Não | Sim |
+| Data de Envio | Caixa de texto |  | Data em que o pedido foi enviado |
+| Data de Resposta | Caixa de texto |  | Data em que o pedido foi avaliado |
+| Tempo Gasto | Caixa de texto |  | Diferença entre Data de Envio e Resposta |
+| Resposta | Caixa de texto |  | Resposta do pedido |
+| Ação | Seleção unica | Aprovar ou Rejeitar |  |
 
 #### Processo 3 – Publicação da narração
 
@@ -239,6 +236,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | Data de Envio | Caixa de texto |  | Data em que o pedido foi enviado |
 | Data de Resposta | Caixa de texto |  | Data em que o pedido foi avaliado |
 | Tempo Gasto | Caixa de texto |  | Diferença entre Data de Envio e Resposta |
+| Resposta | Caixa de texto |  | Resposta do pedido |
 | Ação | Seleção única | Aceitar ou Recusar |  |
 
 ### 4.2. Tecnologias
