@@ -160,16 +160,16 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | Nome | Caixa de Texto |  |  |
+| CPF | Número | 11 Numeros |  |
 | Email | Caixa de Texto | Formato de e-mail |  |
 | Senha | Caixa de Texto | Mínimo de 8 caracteres |  |
 | Confirmação de senha | Caixa de texto | Identica a anterior |  |
-| CPF | Número | 11 Numeros |  |
 
 **Escolher metodo de pagamento**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Opção | Seleção unica | Crédito/Debito/Pix/Boleto | Cartão de crédito |
+| Opção | Seleção unica | Crédito/Debito/Pix/Boleto |  |
 
 #### Processo 2 – Credenciamento de narrador
 
