@@ -244,9 +244,9 @@ As linguagens utilizadas foram:
 ## 6. Indicadores de desempenho
 | **Indicador** | **Objetivos** | **Descrição** | **Cálculo** | **Fonte dados** | **Perspectiva** |
 | --- | --- | --- | --- | --- | --- |
-| Tempo de resposta do Credenciamento de narrador | Avaliar o tempo que o avaliador gasta para responder a uma solicitação de credenciamento | Tempo de resposta apartir do momento que a solicitação é enviada | ![\frac{\sum{Soma do tempo de resposta de todos os pedidos}}{\sum{Total de pedidos de credenciamento}} | Credenciamento de narrador | Processos internos |
-| Tempo de postagem de narração | Medir o tempo necessário para uma narração/livro ser postado | Tempo de resposta apartir do momento que o pedido de narração é enviado | ![\frac{\sum{Soma do tempo de resposta de todos os pedidos}}{\sum{Total de pedidos de narração}} | Publicação da narração | Clientes |
-| Tempo de respota do pedido de remoção | Avaliar o tempo que o avaliador gasta para responder a um pedido de remoção de livro | Tempo de resposta apartir do momento que o pedido é enviado | ![\frac{\sum{Soma do tempo de resposta de todos os pedidos}}{\sum{Total de pedidos de remoção}} | avaliacao_pedido | Processos internos |
+| Tempo de resposta do Credenciamento de narrador | Avaliar o tempo que o avaliador gasta para responder a uma solicitação de credenciamento | Tempo de resposta apartir do momento que a solicitação é enviada | Soma do tempo de resposta de todos os pedidos/Total de pedidos de credenciamento | Credenciamento de narrador | Processos internos |
+| Tempo de postagem de narração | Medir o tempo necessário para uma narração/livro ser postado | Tempo de resposta apartir do momento que o pedido de narração é enviado | Soma do tempo de resposta de todos os pedidos/Total de pedidos de narração | Publicação da narração | Clientes |
+| Tempo de respota do pedido de remoção | Avaliar o tempo que o avaliador gasta para responder a um pedido de remoção de livro | Tempo de resposta apartir do momento que o pedido é enviado | Soma do tempo de resposta de todos os pedidos/Total de pedidos de remoção | avaliacao_pedido | Processos internos |
 | Tempo de aceitação de pedido | Avaliar o tempo necessário para um pedido de narração ser aceitado | Tempo de resposta apartir do momento que a narração é solicitada |   | Publicação da narração | Clientes |
 | Tempo de  abertura do livro | Medir o tempo que o leitor vai precisar para abrir o livro | Tempo de resposta apartir do momento que o leitor apertar o botão ler livro |   | leitura | Clientes | 
 
