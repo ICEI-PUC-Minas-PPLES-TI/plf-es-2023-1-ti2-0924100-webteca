@@ -192,23 +192,17 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 #### Processo 3 – Publicação da narração
 
-**Escolha do livro**
+**Postar Narração**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| pesquisar nome do livro | tabela |  |  |
-| pesquisar nome do autor | tabela |  |  |
-| pesquisar tema | tabela |  |  |
-| pesquisar edição | tabela |  |  |
-| pesquisar idioma | tabela |  |  |
-|  selecionar livro  |  botão  |     |
-
-**Postar narração**
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| Adicionar arquivo | Arquivo | Mp3 |  |
-|  Aceitar  |  Seleção única  |  Sim ou Não   |
+| Nome do autor | Caixa de Texto |  |  |
+| Tema | Caixa de Texto |  |  |
+| Edição | Caixa de Texto |  |  |
+| Idioma | Caixa de Texto |  |  |
+| Audio | arquivo de audio | formato mp3 |  |
+| Capa | imagem | formato jpeg |  |
+| Descrição | Caixa de Texto |  |  |
 
 #### Processo 4 - Processo de leitura
 
@@ -222,7 +216,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-|  | Caixa de Texto | Nome do livro |  |
+| Nome do Livro | Caixa de Texto |  |  |
 
 #### Processo 5 - Remoção de livro
 
