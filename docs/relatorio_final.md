@@ -152,7 +152,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Email | Caixa de Texto | Formato de e-mail |  |
+| Nome de usuário | Caixa de Texto |  |  |
 | Senha | Caixa de Texto | Mínimo de 8 caracteres |   |
 
 **Cadastrar leitor**
@@ -219,10 +219,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Pesquisar Livro | Caixa de Texto | Nome do livro, nome do escritor ou categoria |  |
-|  Nome do livro  |  Tabela  |     |
-|  Nome do escritor  |  Tabela  |     |
-
+| Pesquisar Livro | Caixa de Texto | Nome do livro |  |
 
 #### Processo 5 - Remoção de livro
 
