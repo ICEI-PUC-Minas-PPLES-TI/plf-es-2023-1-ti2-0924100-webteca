@@ -218,6 +218,12 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | --- | --- | --- | --- |
 | Pesquisar Livro | Caixa de Texto | Nome do livro |  |
 
+**Solicitar Narração**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+|  | Caixa de Texto | Nome do livro |  |
+
 #### Processo 5 - Remoção de livro
 
 **Enviar uma pedido de remoção de livro**
