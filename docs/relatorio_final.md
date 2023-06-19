@@ -235,11 +235,11 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | Nome do livro | Caixa de Texto |  |  |
-| Nome do narrador | Caixa de Texto |  | Nome do narrador que postou o livro |
-| Nome do leitor | Caixa de Texto |  | Nome de usuário do leitor |
 | Motivo de remoção | Caixa de Texto |  |  |
 | Data de Envio | Caixa de texto |  | Data em que o pedido foi enviado |
-| Validar | Seleção única | Sim ou Não |  |
+| Data de Resposta | Caixa de texto |  | Data em que o pedido foi avaliado |
+| Tempo Gasto | Caixa de texto |  | Diferença entre Data de Envio e Resposta |
+| Ação | Seleção única | Aceitar ou Recusar |  |
 
 ### 4.2. Tecnologias
 
