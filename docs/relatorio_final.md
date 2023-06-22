@@ -265,7 +265,7 @@ As linguagens utilizadas foram:
 | Tempo de postagem de narração | Medir o tempo necessário para uma narração/livro ser postado | Tempo de resposta apartir do momento que o pedido de narração é enviado | Soma do tempo de resposta de todos os pedidos/Total de pedidos de narração | Publicação da narração | Clientes |
 | Tempo de respota do pedido de remoção | Avaliar o tempo que o avaliador gasta para responder a um pedido de remoção de livro | Tempo de resposta apartir do momento que o pedido é enviado | Soma do tempo de resposta de todos os pedidos/Total de pedidos de remoção | avaliacao_pedido | Processos internos |
 | Valor arrecadado (mensal) | Controle financeiro sobre o faturamento das vendas | Retorna o valor da soma de todos os pagamentos feitos no mês | Soma do valor dos planos  | Tabela pagamento | Processo interno |
-| Taxa de Cancelamento (Diário) | Melhorar a prestação de serviço medindo a porcentagem e o motivo dos cancelamentos | Ver Numero de cancelamento | Numero De Cancelamento + Numero De Clientes / numeroCliente  | Tabela cliente | Aprendizado e Crescimento | 
+| Taxa de Cancelamento (Diário) | Melhorar a prestação de serviço medindo a porcentagem e o motivo dos cancelamentos | Ver Numero de cancelamento | Numero De Cancelamento/Numero De Clientes| Tabela cliente | Aprendizado e Crescimento | 
 
 ## 7.Sistema desenvolvido
 
