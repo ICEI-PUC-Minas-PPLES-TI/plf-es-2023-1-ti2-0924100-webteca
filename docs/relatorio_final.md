@@ -265,7 +265,7 @@ As linguagens utilizadas foram:
 | Tempo de postagem de narração (Mensal) | Medir o tempo necessário para uma narração/livro ser postado | Tempo de resposta apartir do momento que o pedido de narração é enviado | Soma do tempo de resposta de todos os pedidos/Total de pedidos de narração | pedido_livro | Clientes |
 | Tempo de respota do pedido de remoção (Semanal) | Avaliar o tempo que o avaliador gasta para responder a um pedido de remoção de livro | Tempo de resposta apartir do momento que o pedido é enviado | Soma do tempo de resposta de todos os pedidos/Total de pedidos de remoção | pedido_remocao | Processos internos |
 | Valor arrecadado (Mensal) | Controle financeiro sobre o faturamento das vendas | Retorna o valor da soma de todos os pagamentos feitos no mês | Soma do valor dos planos  | Tabela pagamento | Processo interno |
-| Taxa de Livros removidos (Diário) | Melhorar a prestação de serviço medindo a porcentagem de livros removidos | Ver Numero de cancelamento | (Numero De Livros Removidos/(Numero De Livros + Numero de Livros Removidos)) * 100| pedido_remocao | Aprendizado e Crescimento | 
+| Taxa de Livros removidos (Diário) | Melhorar a qualidade dos narradores medindo a porcentagem de livros removidos | Ver Número de livros removidos em compração ao número total de livros | (Numero De Livros Removidos/(Numero De Livros + Numero de Livros Removidos)) * 100| pedido_remocao | Aprendizado e Crescimento | 
 
 ## 7.Sistema desenvolvido
 
