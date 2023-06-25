@@ -138,7 +138,7 @@ A Webteca é um aplicativo cujo propósito principal é tornar audiolivros mais 
 ### 3.3.5 Processo 5 - Remoção de Livro
 Em certos casos, pode ser necessário remover um livro do banco de dados. Isso pode ocorrer caso o audiolivro em questão não possua uma qualidade adequada e/ou tenha violado os termos de serviço da Webteca.
 
-![Exemplo de um Modelo BPMN do PROCESSO 5](imagens/RemoçãoDeLeitor.png "Modelo BPMN do Processo 5.")
+![Exemplo de um Modelo BPMN do PROCESSO 5](imagens/RemoçãoDeLivro.png "Modelo BPMN do Processo 5.")
 
 ## 4. Projeto da Solução
 
