@@ -265,7 +265,7 @@ Faça aqui uma breve descrição do software e coloque as principais telas com u
 
 ## 8. Conclusão
 
-Apresente aqui a conclusão do seu trabalho. Discussão dos resultados obtidos no trabalho, onde se verifica as observações pessoais de cada aluno. Poderá também apresentar sugestões de novas linhas de estudo.
+Durante o desenvolvimento do projeto, todos os processos foram implementados e estão operando de forma funcional. Entretanto, devido a uma falta de planejamento, organização e comunicação mudanças tiverem que ser feitas e nem todos os requisitos e funcionalidades do software foram impementados. Na visão original do projeto, leitores deveriam ser capazes de alugar audiobooks e parte desse lugro seria dado para o narrador, mas na versão final, os leitores são capazes de acessar os audiolivros gratuitamente.
 
 # REFERÊNCIAS
 
