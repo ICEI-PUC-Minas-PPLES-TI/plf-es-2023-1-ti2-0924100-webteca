@@ -52,7 +52,7 @@ _Instituto de Informática e Ciências Exatas – Pontifícia Universidade de Mi
 
 ---
 
-_Nosso projeto é uma biblioteca virtual voltada para áudio books, com o principal objetivo auxiliar pessoas analfabetas, crianças , cegos, baixa disponibilidade de tempo entre outros pessoas na leitura e absorção dos livros. Devido a alta dinamicidade dos dias atuais, se torna cada vez mais difícil para as pessoas sentarem e lerem um livro. Desta forma, os áudio books vem se tornando uma opção mais viável para os leitores já ativos e os que desejam começar._
+_Nosso projeto é uma biblioteca virtual voltada para áudio books, com o principal objetivo auxiliar pessoas analfabetas, crianças, cegos, baixa disponibilidade de tempo entre outros pessoas na leitura e absorção dos livros. Devido a alta dinamicidade dos dias atuais, se torna cada vez mais difícil para as pessoas sentarem e lerem um livro. Desta forma, os áudio books vem se tornando uma opção mais viável para os leitores já ativos e os que desejam começar._
 
 ---
 
@@ -144,8 +144,6 @@ Em certos casos, pode ser necessário remover um livro do banco de dados. Isso p
 
 ### 4.1. Detalhamento das atividades
 
-Descrever aqui cada uma das propriedades das atividades de cada um dos processos. Devem estar relacionadas com o modelo de processo apresentado anteriormente.
-
 #### Processo 1 – Cadastrar leitor na plataforma
 
 **Realizar login**
@@ -153,7 +151,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | Nome de usuário | Caixa de Texto |  |  |
-| Senha | Caixa de Texto | Mínimo de 8 caracteres |   |
+| Senha | Caixa de Texto | Mínimo de 8 caracteres |  |
 
 **Cadastrar leitor**
 
@@ -163,13 +161,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | CPF | Número | 11 Numeros |  |
 | Email | Caixa de Texto | Formato de e-mail |  |
 | Senha | Caixa de Texto | Mínimo de 8 caracteres |  |
-| Confirmação de senha | Caixa de texto | Identica a anterior |  |
-
-**Escolher metodo de pagamento**
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| Opção | Seleção unica | Crédito/Debito/Pix/Boleto |  |
+| Forma de Pagamento | Seleção única | Crédito/Nenhum |  |
 
 #### Processo 2 – Credenciamento de narrador
 
@@ -210,7 +202,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| Pesquisar Livro | Caixa de Texto | Nome do livro |  |
+| Pesquisar | Caixa de Texto | Nome do livro |  |
 
 **Solicitar Narração**
 
