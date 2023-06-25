@@ -261,11 +261,11 @@ As linguagens utilizadas foram:
 ## 6. Indicadores de desempenho
 | **Indicador** | **Objetivos** | **Descrição** | **Cálculo** | **Fonte dados** | **Perspectiva** |
 | --- | --- | --- | --- | --- | --- |
-| Tempo de resposta do Credenciamento de narrador | Avaliar o tempo que o avaliador gasta para responder a uma solicitação de credenciamento | Tempo de resposta apartir do momento que a solicitação é enviada | Soma do tempo de resposta de todos os pedidos/Total de pedidos de credenciamento | Credenciamento de narrador | Processos internos |
-| Tempo de postagem de narração | Medir o tempo necessário para uma narração/livro ser postado | Tempo de resposta apartir do momento que o pedido de narração é enviado | Soma do tempo de resposta de todos os pedidos/Total de pedidos de narração | Publicação da narração | Clientes |
-| Tempo de respota do pedido de remoção | Avaliar o tempo que o avaliador gasta para responder a um pedido de remoção de livro | Tempo de resposta apartir do momento que o pedido é enviado | Soma do tempo de resposta de todos os pedidos/Total de pedidos de remoção | avaliacao_pedido | Processos internos |
-| Valor arrecadado (mensal) | Controle financeiro sobre o faturamento das vendas | Retorna o valor da soma de todos os pagamentos feitos no mês | Soma do valor dos planos  | Tabela pagamento | Processo interno |
-| Taxa de Cancelamento (Diário) | Melhorar a prestação de serviço medindo a porcentagem e o motivo dos cancelamentos | Ver Numero de cancelamento | Numero De Cancelamento/Numero De Clientes| Tabela cliente | Aprendizado e Crescimento | 
+| Tempo de resposta do Credenciamento de narrador (Semanal) | Avaliar o tempo que o avaliador gasta para responder a uma solicitação de credenciamento | Tempo de resposta apartir do momento que a solicitação é enviada | Soma do tempo de resposta de todos os pedidos/Total de pedidos de credenciamento | curriculo | Processos internos |
+| Tempo de postagem de narração (Mensal) | Medir o tempo necessário para uma narração/livro ser postado | Tempo de resposta apartir do momento que o pedido de narração é enviado | Soma do tempo de resposta de todos os pedidos/Total de pedidos de narração | pedido_livro | Clientes |
+| Tempo de respota do pedido de remoção (Semanal) | Avaliar o tempo que o avaliador gasta para responder a um pedido de remoção de livro | Tempo de resposta apartir do momento que o pedido é enviado | Soma do tempo de resposta de todos os pedidos/Total de pedidos de remoção | pedido_remocao | Processos internos |
+| Valor arrecadado (Mensal) | Controle financeiro sobre o faturamento das vendas | Retorna o valor da soma de todos os pagamentos feitos no mês | Soma do valor dos planos  | Tabela pagamento | Processo interno |
+| Taxa de Livros removidos (Diário) | Melhorar a prestação de serviço medindo a porcentagem de livros removidos | Ver Numero de cancelamento | (Numero De Livros Removidos/(Numero De Livros + Numero de Livros Removidos)) * 100| pedido_remocao | Aprendizado e Crescimento | 
 
 ## 7.Sistema desenvolvido
 
