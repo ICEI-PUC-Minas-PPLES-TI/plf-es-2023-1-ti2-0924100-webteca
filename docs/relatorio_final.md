@@ -76,7 +76,7 @@ Desenvolver um software de biblioteca virtual voltada para o publico de audioboo
  - Selecionar livros renomados.
  - Garantir acessibilidade financeira do leitor.
  - Facilitar a navegação de usuarios deficientes.
- - Garantir a segurança do cliente no momento da compra/aluguel.
+ - Fiscalizar as narrações através de feedbacks dos usuários.
 
         1.4 Justificativas
 
