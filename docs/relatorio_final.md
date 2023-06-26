@@ -341,7 +341,7 @@ Dos artefatos (armazenado do repositório): https://github.com/ICEI-PUC-Minas-PP
 
 Da apresentação final (armazenado no repositório): https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-1-ti2-0924100-webteca/blob/master/docs/Apresentac%CC%A7a%CC%83o%20Final%20Webteca.pdf;
 
-Do vídeo de apresentação (armazenado no repositório):.
+Do vídeo de apresentação (armazenado no repositório):https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-1-ti2-0924100-webteca/blob/master/docs/WhatsApp%20Video%202023-06-26%20at%2010.43.30.mp4.
 
 
 
