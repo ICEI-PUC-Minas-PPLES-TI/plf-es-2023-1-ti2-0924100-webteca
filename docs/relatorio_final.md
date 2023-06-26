@@ -271,7 +271,7 @@ Responsável por receber e redirecionar os internautas para a área de narrador 
 
 **TELA DE LOGIN**
 
-![](imagens/incial.jpg)
+![](imagens/login.jpg)
 
 O usuário deve inserir o nome de usuário e senha cadastrados para entrar no site.
 
