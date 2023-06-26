@@ -265,7 +265,7 @@ A Webteca é um software de fornece audiobooks para os seus usuários. Ele foi d
 
 **TELA INICIAL**
 
-imagens/incial.jpg
+![](imagens/incial.jpg)
 
 Responsável por receber e redirecionar os internautas para a área de narrador ou leitor.
 
