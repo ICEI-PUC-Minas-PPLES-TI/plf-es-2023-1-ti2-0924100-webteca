@@ -277,7 +277,7 @@ A Webteca é um software de fornece audiobooks para os seus usuários. Ele foi d
 
 ![](imagens/incial.jpg)
 
-Responsável por receber e redirecionar os internautas para a área de narrador ou leitor.
+Responsável por receber e redirecionar os internautas para a área de avaliador ou leitor.
 
 **TELA DE LOGIN**
 
@@ -313,7 +313,7 @@ O leitor deve inserir o nome do livro desejado.
 
 ![](imagens/postar_livro.jpg)
 
-O narrador deve adcionar e postar o livro narrado.
+O narrador deve adicionar e postar o livro narrado.
 
 **TELA DE REMOÇÃO DE LIVRO**
 
@@ -323,7 +323,7 @@ O leitor deve inserir o nome do livro e o motivo da remoção.
 
 ## 8. Conclusão
 
-A Webteca é um software de audiobooks online que foi desenvolvido com o intuito de auxiliar pessoas que não podem ou conseguem ler livros por algum fator externo, como tempo, problema de visão ou até mesmo falta de conhecimento sobre a língua. A elaboração do projeto iniciou-se com um debate sobre o problema que motivou a criação do sistema e, consequentemente, diversas maneiras de implementar soluções foram discutidas. Diante disso, observou-se a necessidade de um software que permitisse uma fácil navegação e que desempenhasse uma boa interação entre os narradores, usuários e os livros postados. Ademais, o software dispõe de indicadores de desempenho, como os de valor arrecadado, de taxa de livros removidos e de tempo de resposta do credenciamento de narrador, que são indispensáveis para análise dos resultados e da eficiência dos serviços ofertados. Em suma, os objetivos que pretendíamos alcançar obtiveram resultados positivos e, com o passar do tempo, pretende-se implementar melhorias no software e na estética.
+A Webteca é um software de audiobooks online que foi desenvolvido com o intuito de auxiliar pessoas que não podem ou não conseguem ler livros por algum fator externo, como tempo, problema de visão ou até mesmo falta de conhecimento sobre a língua. A elaboração do projeto iniciou-se com um debate sobre o problema que motivou a criação do sistema e, consequentemente, diversas maneiras de implementar soluções foram discutidas. Diante disso, observou-se a necessidade de um software que permitisse uma fácil navegação e que desempenhasse uma boa interação entre os narradores, usuários e os livros postados. Ademais, o software dispõe de indicadores de desempenho, como os de valor arrecadado, de taxa de livros removidos e de tempo de resposta do credenciamento de narrador, que são indispensáveis para a análise dos resultados e da eficiência dos serviços ofertados. Em suma, os objetivos que pretendíamos alcançar obtiveram resultados positivos e, com o passar do tempo, pretende-se implementar melhorias no software e na estética.
 
 # REFERÊNCIAS
 
