@@ -289,7 +289,7 @@ O leitor deve inserir o nome do livro solicitado.
 
 **TELA DE POSTAR LIVRO**
 
-
+O narrador deve adcionar e postar o livro narrado.
 
 **TELA DE REMOÇÃO DE LIVRO**
 
