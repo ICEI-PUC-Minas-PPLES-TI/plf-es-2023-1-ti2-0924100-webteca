@@ -80,7 +80,7 @@ Desenvolver um software de biblioteca virtual voltada para o público de audiobo
 
         1.4 Justificativas
 
-Devido a alta dinamicidade dos dias atuais, se torna cada vez mais difícil para as pessoas sentarem e lerem um livro. Desta forma os audiolivros vem se tornando uma opção mais viável para os leitores já ativos e os que desejam começar.
+Devido à alta dinamicidade dos dias atuais, se torna cada vez mais difícil para as pessoas sentarem e lerem um livro. Desta forma os audiolivros vem se tornando uma opção mais viável para os leitores já ativos e os que desejam começar.
 
 ## 2. Participantes do processo
 
@@ -111,7 +111,7 @@ Como nosso projeto tem como público alvo pessoas com deficiências visuais e se
 
 ### 3.3.1 Processo 1 – Cadastrar leitor na plataforma
 
-O cadastro de leitor na plataforma consiste no processo de cadastro de novos usuários ou caso já seja cadastrado, no login. Ao cadastrar será ofertado dois planos, um premium pago sendo necessário o cadastro de um cartão de crédito, e um gratuito onde será necessario apenas o preenchimento das informações pessoais.
+O cadastro de leitor na plataforma consiste no processo de cadastro de novos usuários ou caso já seja cadastrado, no login. Ao cadastrar será ofertado dois planos, um premium pago, sendo necessário o cadastro de um cartão de crédito, e um gratuito onde será necessário apenas o preenchimento das informações pessoais.
 
 ![Exemplo de um Modelo BPMN do PROCESSO 1](imagens/Contratação.png "Modelo BPMN do Processo 1.")
 
@@ -130,7 +130,7 @@ Narradores são usuários autenticados que possuem o direito e habilidade de ace
 
 ### 3.3.4 Processo 4 – Processo de leitura 
 
-A Webteca é um aplicativo cujo propósito principal é tornar audiolivros mais acessíveis para o público. Para atingir esse objetivo, usuários poderão pesquisar livros que eles desejam ler. Caso o audiolivro desejado não esteja disponível, o usuário podera solicitar uma narração. 
+A Webteca é um aplicativo cujo propósito principal é tornar audiobooks mais acessíveis para o público. Para atingir esse objetivo, usuários poderão pesquisar livros que eles desejam ler. Caso o audiolivro desejado não esteja disponível, o usuário podera solicitar uma narração.
 
 ![Exemplo de um Modelo BPMN do PROCESSO 4](imagens/ProcessoLeitura.png "Modelo BPMN do Processo 4.")
 
