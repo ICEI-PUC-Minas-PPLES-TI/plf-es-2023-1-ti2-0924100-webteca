@@ -80,8 +80,7 @@ Desenvolver um software de biblioteca virtual voltada para o publico de audioboo
 
         1.4 Justificativas
 
-Devido a alta dinamicidade dos dias atuais, se torna cada vez mais difícil para as pessoas sentarem e lerem um livro. Desta forma os áudio books vem se tornando uma
-opção mais viável para os leitores já ativos e os que desejam começar.
+Devido a alta dinamicidade dos dias atuais, se torna cada vez mais difícil para as pessoas sentarem e lerem um livro. Desta forma os audiobooks vem se tornando uma opção mais viável para os leitores já ativos e os que desejam começar.
 
 ## 2. Participantes do processo
 
@@ -105,7 +104,7 @@ Caso um usuário deseje escutar um livro que não esteja disponível em áudio, 
 
 ## 3.2. Descrição Geral da proposta
 
-Nosso projeto é um aplicativo chamado "webteca", ele ira permitir que o usuário pesquise, alugue e acesse audiolivros que ele desaja ler. Caso o livro que o usuário queira não esteja disponivel na biblioteca, ele devera fazer um pedido no site, esse pedido será atendido por um dos narradores do site, um usuário autenticado, que possui a permissão de atender pedidos e criar o audiolivros. Uma vez que o pedido seja atendido e o audibook seja criado, ele devera ser postado no site, onde podera ser alugado por outros usuários. Como compensação, o narrador recebera uma parcela do dinheiro para cada vez que o audiolivro é alugado. Para reinforçar a qualidade do produto, usuários poderão avaliar os audilivros que eles alugam.
+Nosso projeto é um aplicativo chamado "webteca", ele ira permitir que o usuário pesquise, solicite e acesse audiolivros que ele deseja ler. Caso o livro que o usuário queira não esteja disponível na biblioteca, ele devera fazer um pedido no site, esse pedido será atendido por um dos narradores do site, um usuário autenticado, que possui a permissão de atender pedidos e criar o audiolivros. Uma vez que o pedido seja atendido e o audibook seja criado, ele devera ser postado no site, onde podera ser acessado por outros usuários. Para reinforçar a qualidade do produto, usuários poderão enviar um pedido de remoção, caso o audilivro não possua uma qualidade adequada.
 Como nosso projeto tem como público alvo pessoas com deficiências visuais e anafalbetos, nosso aplicativo também tera uma interfaçe que seja adequada e intuitiva para essas pessoas.
 
 ## 3.3. Modelagem dos Processos
@@ -119,19 +118,19 @@ O cadastro de leitor na plataforma consiste no processo de cadastro de novos usu
 
 ### 3.3.2 Processo 2 – Credenciamento de narrador 
 
-O Credenciamento do narrador consiste no processo de cadastrar novos narradores qualificados em nosso site, os quais serão armazenados em nosso banco de dados para receberem ofertas no processo de publicação das narrações.
+O Credenciamento do narrador consiste no processo de cadastrar novos narradores qualificados em nosso site, os quais serão armazenados em nosso banco de dados. Uma vez que o usuário se torne um narrador, este podera aceitar pedidos e publicar narrações.
 
 ![Exemplo de um Modelo BPMN do PROCESSO 2](imagens/Credenciamentodenarrador.png "Modelo BPMN do Processo 2.")
 
 ### 3.3.3 Processo 3 – Publicação da narração 
 
-Narradores são usuários autenticados que possuem o direito e habilidade de aceitarem pedidos de outros usários. Caso o narrador aceite um pedido, ele devera ler o livro no pedido e criar um audiobook desse livro, o qual ele também devera enviar para a Webteca.  Uma vez que isso seja feito, o novo audiolivro estara disponivel para ser alugado por todos os outros usuários do site e em troca o narrador recebera uma fração do lucro gerado pelo livro.
+Narradores são usuários autenticados que possuem o direito e habilidade de aceitarem pedidos de outros usários. Caso o narrador aceite um pedido, ele devera ler o livro no pedido e criar um audiobook desse livro, o qual ele também devera enviar para a Webteca. Uma vez que isso seja feito, o novo audiolivro estara disponível para todos os outros usuários do site.
 
 ![Exemplo de um Modelo BPMN do PROCESSO 3](imagens/PublicaçãoNarração$.png "Modelo BPMN do Processo 3.")
 
 ### 3.3.4 Processo 4 – Processo de leitura 
 
-A Webteca é um aplicativo cujo propósito principal é tornar audiolivros mais acessiveis para o publico. Para atingir esse objetivo, usuários poderão pesquisar livros que eles desejam, alugar, ler e avaliar. Caso o livro desejado não esteja disponível, o usuário podera solicitar uma narração e caso o usuário queira parar de ler ele podera pedir uma pausa e depois continuar lendo de onde parou. 
+A Webteca é um aplicativo cujo propósito principal é tornar audiolivros mais acessíveis para o público. Para atingir esse objetivo, usuários poderão pesquisar livros que eles desejam ler. Caso o audiolivro desejado não esteja disponível, o usuário podera solicitar uma narração. 
 
 ![Exemplo de um Modelo BPMN do PROCESSO 4](imagens/ProcessoLeitura.png "Modelo BPMN do Processo 4.")
 
@@ -162,6 +161,17 @@ Em certos casos, pode ser necessário remover um livro do banco de dados. Isso p
 | Email | Caixa de Texto | Formato de e-mail |  |
 | Senha | Caixa de Texto | Mínimo de 8 caracteres |  |
 | Forma de Pagamento | Seleção única | Crédito/Nenhum |  |
+
+**Inserir informações do cartão de crédito**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Número do cartão | Caixa de Texto | Máximo de 16 caracteres |  |
+| Titular do cartão | Caixa de Texto |  |  |
+| Valor de pagamento | Seleção única | 5/10/20/30 |  |
+| Mês de expiração | Seleção única | 1/2/3/4/5/6/7/8/9/10/11/12 | Mês |
+| Ano de expiração | Seleção única | 2023/2024/2025/2026/2027/2028/2029/2030/2031/2032 | Ano |
+| Cvv | Caixa de Texto | Máximo de 4 caracteres |  |
 
 #### Processo 2 – Credenciamento de narrador
 
@@ -256,7 +266,7 @@ As linguagens utilizadas foram:
 | Tempo de resposta do Credenciamento de narrador (Semanal) | Avaliar o tempo que o avaliador gasta para responder a uma solicitação de credenciamento | Tempo de resposta apartir do momento que a solicitação é enviada | Soma do tempo de resposta de todos os pedidos/Total de pedidos de credenciamento | curriculo | Processos internos |
 | Tempo de postagem de narração (Mensal) | Medir o tempo necessário para uma narração/livro ser postado | Tempo de resposta apartir do momento que o pedido de narração é enviado | Soma do tempo de resposta de todos os pedidos/Total de pedidos de narração | pedido_livro | Clientes |
 | Tempo de respota do pedido de remoção (Semanal) | Avaliar o tempo que o avaliador gasta para responder a um pedido de remoção de livro | Tempo de resposta apartir do momento que o pedido é enviado | Soma do tempo de resposta de todos os pedidos/Total de pedidos de remoção | pedido_remocao | Processos internos |
-| Valor arrecadado (Mensal) | Contrôle financeiro sobre o total de dinheiro arrecadado | Valor da soma de todos os pagamentos para conta premium feitos no total | Soma dos valores pagos para uma conta premium | cartao_credito | Processo interno |
+| Valor arrecadado (Mensal) | Contrôle financeiro sobre o total de dinheiro arrecadado | Valor da soma de todos os pagamentos para conta premium | Soma dos valores pagos para uma conta premium | cartao_credito | Processo interno |
 | Taxa de Livros removidos (Diário) | Melhorar a qualidade dos narradores medindo a porcentagem de livros removidos | Ver Número de livros removidos em compração ao número total de livros | (Numero De Livros Removidos/(Numero De Livros + Numero de Livros Removidos)) * 100| pedido_remocao | Aprendizado e Crescimento | 
 
 ## 7.Sistema desenvolvido
@@ -297,7 +307,7 @@ O usuário que deseja se tornar narrador deve anexar seu currículo.
 
 ![](imagens/solicitar_livro.jpg)
 
-O leitor deve inserir o nome do livro solicitado.
+O leitor deve inserir o nome do livro desejado.
 
 **TELA DE POSTAR LIVRO**
 
@@ -325,9 +335,9 @@ A Webteca é um software de audiobooks online que foi desenvolvido com o intuito
 
 **Colocar link:**
 
-Do código (armazenado no repositório):https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-1-ti2-0924100-webteca/tree/master/src;
+Do código (armazenado no repositório): https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-1-ti2-0924100-webteca/tree/master/src;
 
-Dos artefatos (armazenado do repositório):https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-1-ti2-0924100-webteca/tree/master/assets;
+Dos artefatos (armazenado do repositório): https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-1-ti2-0924100-webteca/tree/master/assets;
 
 Da apresentação final (armazenado no repositório):;
 
