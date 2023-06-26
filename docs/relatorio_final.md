@@ -283,13 +283,13 @@ Durante o desenvolvimento do projeto, todos os processos foram implementados e e
 
 **Colocar link:**
 
-Do código (armazenado no repositório);
+Do código (armazenado no repositório):https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-1-ti2-0924100-webteca/tree/master/src;
 
-Dos artefatos (armazenado do repositório);
+Dos artefatos (armazenado do repositório):https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-1-ti2-0924100-webteca/tree/master/assets;
 
-Da apresentação final (armazenado no repositório);
+Da apresentação final (armazenado no repositório):;
 
-Do vídeo de apresentação (armazenado no repositório).
+Do vídeo de apresentação (armazenado no repositório):.
 
 
 
