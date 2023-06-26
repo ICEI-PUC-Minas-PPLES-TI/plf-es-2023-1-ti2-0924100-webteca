@@ -293,7 +293,7 @@ O leitor deve inserir os dados pedidos para proseguir com o processo de cadastro
 
 **TELA DE PAGINA DO LEITOR**
 
-![](imagens/pagina_do-leitor.jpg)
+![](imagens/pagina_do_leitor.jpg)
 
 Responsável por redirecionar os leitores para as áreas desejadas.
 
