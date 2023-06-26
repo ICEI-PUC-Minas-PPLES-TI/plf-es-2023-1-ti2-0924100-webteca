@@ -261,13 +261,23 @@ As linguagens utilizadas foram:
 
 ## 7.Sistema desenvolvido
 
-A Webteca é um software de fornece audiobooks para os seus usuários. Ele foi dessenvolvido com o intuito de facilitar o acesso a obras literárias para aqueles que são incapazes de ler livros e ebooks (como anafalbetos ou cegos).
+A Webteca é um software de fornece audiobooks para os seus usuários. Ele foi dessenvolvido com o intuito de facilitar o acesso a obras literárias para aqueles que são incapazes de ler livros e ebooks.
 
 **TELA INICIAL**
 
 **TELA DE LOGIN**
 
 **TELA DE CADASTRO**
+
+**TELA DE PAGINA DO LEITOR**
+
+**TELA DE ENVIO DE CURRICULO**
+
+**TELA DE PEDIR LIVRO**
+
+**TELA DE POSTAR LIVRO**
+
+**TELA DE REMOÇÃO DE LIVRO**
 
 ## 8. Conclusão
 
