@@ -84,7 +84,7 @@ Devido a alta dinamicidade dos dias atuais, se torna cada vez mais difícil para
 
 ## 2. Participantes do processo
 
- - Leitores, englobando pessoas com deficiência visual, semi analfabetos, pessoas que não conseguem dedicar o tempo necessário para a leitura, idosos com dificuldade de leitura, estrangeiros que buscam entender melhor a lingua portuguêsa escutando, entre outros.
+ - Leitores, englobando pessoas com deficiência visual, semianalfabetos, pessoas que não conseguem dedicar o tempo necessário para a leitura, idosos com dificuldade de leitura, estrangeiros que buscam entender melhor a língua portuguêsa escutando, entre outros.
 
  - Autores independentes, que desejam disponibilar sua obra em formato de audiobook.
 
@@ -104,8 +104,8 @@ Caso um usuário deseje escutar um livro que não esteja disponível em áudio, 
 
 ## 3.2. Descrição Geral da proposta
 
-Nosso projeto é um aplicativo chamado "webteca", ele ira permitir que o usuário pesquise, solicite e acesse audiolivros que ele deseja ler. Caso o livro que o usuário queira não esteja disponível na biblioteca, ele devera fazer um pedido no site, esse pedido será atendido por um dos narradores do site, um usuário autenticado, que possui a permissão de atender pedidos e criar o audiolivros. Uma vez que o pedido seja atendido e o audibook seja criado, ele devera ser postado no site, onde podera ser acessado por outros usuários. Para reinforçar a qualidade do produto, usuários poderão enviar um pedido de remoção, caso o audilivro não possua uma qualidade adequada.
-Como nosso projeto tem como público alvo pessoas com deficiências visuais e anafalbetos, nosso aplicativo também tera uma interfaçe que seja adequada e intuitiva para essas pessoas.
+Nosso projeto é um aplicativo chamado "webteca", ele ira permitir que o usuário pesquise, solicite e acesse audiolivros que ele deseja ler. Caso o livro que o usuário queira não esteja disponível na biblioteca, ele devera fazer um pedido no site, esse pedido será atendido por um dos narradores do site, um usuário autenticado, que possui a permissão de atender pedidos e criar o audiobooks. Uma vez que o pedido seja atendido e o audilivro seja criado, ele devera ser postado no site, onde podera ser acessado por outros usuários. Para reinforçar a qualidade do produto, usuários poderão enviar um pedido de remoção, caso o audilivro não possua uma qualidade adequada.
+Como nosso projeto tem como público alvo pessoas com deficiências visuais e semianalfabetos, nosso aplicativo também tera uma interfaçe que seja adequada e intuitiva para essas pessoas.
 
 ## 3.3. Modelagem dos Processos
 
