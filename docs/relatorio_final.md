@@ -265,19 +265,35 @@ A Webteca é um software de fornece audiobooks para os seus usuários. Ele foi d
 
 **TELA INICIAL**
 
+Responsável por receber e redirecionar os internautas para a área de narrador ou leitor.
+
 **TELA DE LOGIN**
+
+O usuário deve inserir o nome de usuário e senha cadastrados para entrar no site.
 
 **TELA DE CADASTRO**
 
+O leitor deve inserir os dados pedidos para proseguir com o processo de cadastro.
+
 **TELA DE PAGINA DO LEITOR**
 
-**TELA DE ENVIO DE CURRICULO**
+Responsável por redirecionar os leitores para as áreas desejadas.
+
+**TELA DE ENVIO DE CURRÍCULO**
+
+O usuário que deseja se tornar narrador deve anexar seu currículo.
 
 **TELA DE PEDIR LIVRO**
 
+O leitor deve inserir o nome do livro solicitado.
+
 **TELA DE POSTAR LIVRO**
 
+
+
 **TELA DE REMOÇÃO DE LIVRO**
+
+O leitor deve inserir o nome do livro e o motivo da remoção.
 
 ## 8. Conclusão
 
