@@ -283,7 +283,7 @@ Responsável por redirecionar os leitores para as áreas desejadas.
 
 O usuário que deseja se tornar narrador deve anexar seu currículo.
 
-**TELA DE PEDIR LIVRO**
+**TELA DE SOLICITAR LIVRO**
 
 O leitor deve inserir o nome do livro solicitado.
 
