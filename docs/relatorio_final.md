@@ -271,29 +271,43 @@ Responsável por receber e redirecionar os internautas para a área de narrador 
 
 **TELA DE LOGIN**
 
+![](imagens/incial.jpg)
+
 O usuário deve inserir o nome de usuário e senha cadastrados para entrar no site.
 
 **TELA DE CADASTRO**
+
+![](imagens/incial.jpg)
 
 O leitor deve inserir os dados pedidos para proseguir com o processo de cadastro.
 
 **TELA DE PAGINA DO LEITOR**
 
+![](imagens/incial.jpg)
+
 Responsável por redirecionar os leitores para as áreas desejadas.
 
 **TELA DE ENVIO DE CURRÍCULO**
+
+![](imagens/incial.jpg)
 
 O usuário que deseja se tornar narrador deve anexar seu currículo.
 
 **TELA DE SOLICITAR LIVRO**
 
+![](imagens/incial.jpg)
+
 O leitor deve inserir o nome do livro solicitado.
 
 **TELA DE POSTAR LIVRO**
 
+![](imagens/incial.jpg)
+
 O narrador deve adcionar e postar o livro narrado.
 
 **TELA DE REMOÇÃO DE LIVRO**
+
+![](imagens/incial.jpg)
 
 O leitor deve inserir o nome do livro e o motivo da remoção.
 
