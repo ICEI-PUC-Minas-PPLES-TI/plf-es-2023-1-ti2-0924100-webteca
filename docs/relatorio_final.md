@@ -261,7 +261,13 @@ As linguagens utilizadas foram:
 
 ## 7.Sistema desenvolvido
 
-Faça aqui uma breve descrição do software e coloque as principais telas com uma explicação de como usar cada uma.
+A Webteca é um software de fornece audiobooks para os seus usuários. Ele foi dessenvolvido com o intuito de facilitar o acesso a obras literárias para aqueles que são incapazes de ler livros e ebooks (como anafalbetos ou cegos).
+
+**TELA INICIAL**
+
+**TELA DE LOGIN**
+
+**TELA DE CADASTRO**
 
 ## 8. Conclusão
 
