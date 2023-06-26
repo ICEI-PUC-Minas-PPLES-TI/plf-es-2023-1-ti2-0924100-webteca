@@ -277,37 +277,37 @@ O usuário deve inserir o nome de usuário e senha cadastrados para entrar no si
 
 **TELA DE CADASTRO**
 
-![](imagens/incial.jpg)
+![](imagens/cadastro.jpg)
 
 O leitor deve inserir os dados pedidos para proseguir com o processo de cadastro.
 
 **TELA DE PAGINA DO LEITOR**
 
-![](imagens/incial.jpg)
+![](imagens/pagina_do-leitor.jpg)
 
 Responsável por redirecionar os leitores para as áreas desejadas.
 
 **TELA DE ENVIO DE CURRÍCULO**
 
-![](imagens/incial.jpg)
+![](imagens/envio_do_curriculo.jpg)
 
 O usuário que deseja se tornar narrador deve anexar seu currículo.
 
 **TELA DE SOLICITAR LIVRO**
 
-![](imagens/incial.jpg)
+![](imagens/solicitar_livro.jpg)
 
 O leitor deve inserir o nome do livro solicitado.
 
 **TELA DE POSTAR LIVRO**
 
-![](imagens/incial.jpg)
+![](imagens/postar_livro.jpg)
 
 O narrador deve adcionar e postar o livro narrado.
 
 **TELA DE REMOÇÃO DE LIVRO**
 
-![](imagens/incial.jpg)
+![](imagens/remover_livro.jpg)
 
 O leitor deve inserir o nome do livro e o motivo da remoção.
 
