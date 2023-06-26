@@ -62,7 +62,7 @@ _Nosso projeto é uma biblioteca virtual voltada para audiobooks, com o principa
 
     1.1 Contextualização
 
-Em 2022, o mercado global de audiobooks foi avaliado em US$ 5.364,9 milhões e devese se eperar que ele cresça com uma CAGR (Taxa de crescimento anual composta) de 26,3% de 2023 a 2030.**[1.1]** Esses livros estão se tornando cada vez mais populares, devido aos múltiplos benefícios que eles oferecem em comparação aos ebooks e aos livros de papel. Assim, perante ao crescimento do mercado de audiolivros, nosso projeto busca facilitar o acesso aos audiobooks para aqueles que mais necessitam.
+Em 2022, o mercado global de audiobooks foi avaliado em US$ 5.364,9 milhões e deve-se esperar que ele cresça com uma CAGR (Taxa de crescimento anual composta) de 26,3% de 2023 a 2030.**[1.1]** Esses livros estão se tornando cada vez mais populares, devido aos múltiplos benefícios que eles oferecem em comparação aos ebooks e aos livros de papel. Assim, perante ao crescimento do mercado de audiolivros, nosso projeto busca facilitar o acesso aos audiobooks para aqueles que mais necessitam.
 
     1.2 Problema
 
