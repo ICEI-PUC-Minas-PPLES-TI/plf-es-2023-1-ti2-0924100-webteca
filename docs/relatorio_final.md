@@ -75,7 +75,7 @@ Desenvolver um software de biblioteca virtual voltada para o público de audiobo
         1.3.1 Objetivos específicos
  - Selecionar livros renomados.
  - Garantir acessibilidade financeira do leitor.
- - Facilitar a navegação de usuarios deficientes.
+ - Facilitar a navegação de usuários deficientes.
  - Fiscalizar as narrações através de feedbacks dos usuários.
 
         1.4 Justificativas
@@ -86,7 +86,7 @@ Devido à alta dinamicidade dos dias atuais, se torna cada vez mais difícil par
 
  - Leitores, englobando pessoas com deficiência visual, semianalfabetos, pessoas que não conseguem dedicar o tempo necessário para a leitura, idosos com dificuldade de leitura, estrangeiros que buscam entender melhor a língua portuguêsa escutando, entre outros.
 
- - Autores independentes, que desejam disponibilar sua obra em formato de audiobook.
+ - Autores independentes, que desejam disponibilizar sua obra em formato de audiobook.
 
  - Editoras, com o intuito de disponibilizar suas obras já publicadas para pessoas que não possuem condições de lelas.
 
