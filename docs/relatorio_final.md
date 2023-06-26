@@ -271,7 +271,7 @@ A Webteca é um software de fornece audiobooks para os seus usuários. Ele foi d
 
 ## 8. Conclusão
 
-Durante o desenvolvimento do projeto, todos os processos foram implementados e estão operando de forma funcional. Entretanto, devido a uma falta de planejamento, organização e comunicação mudanças tiverem que ser feitas e nem todos os requisitos e funcionalidades do software foram impementados. Na visão original do projeto, leitores deveriam ser capazes de alugar audiobooks e parte desse lugro seria dado para o narrador, mas na versão final, os leitores são capazes de acessar os audiolivros gratuitamente.
+A Webteca é um software de audiobooks online que foi desenvolvido com o intuito de auxiliar pessoas que não podem ou conseguem ler livros por algum fator externo, como tempo, problema de visão ou até mesmo falta de conhecimento sobre a língua. A elaboração do projeto iniciou-se com um debate sobre o problema que motivou a criação do sistema e, consequentemente, diversas maneiras de implementar soluções foram discutidas. Diante disso, observou-se a necessidade de um software que permitisse uma fácil navegação e que desempenhasse uma boa interação entre os narradores, usuários e os livros postados. Ademais, o software dispõe de indicadores de desempenho, como os de valor arrecadado, de taxa de livros removidos e de tempo de resposta do credenciamento de narrador, que são indispensáveis para análise dos resultados e da eficiência dos serviços ofertados. Em suma, os objetivos que pretendíamos alcançar obtiveram resultados positivos e, com o passar do tempo, pretende-se implementar melhorias no software e na estética.
 
 # REFERÊNCIAS
 
