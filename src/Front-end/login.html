@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+    <link rel="stylesheet" href="css/login.css">
+    <title>Login do Leitor</title>
+    <style>
+        .botao{
+        margin-top: 10px;
+        display: flex;
+        justify-content: center;
+        }
+        .btn {
+         margin: 0 75px; /* Espaçamento entre os botões */
+        }
+        .pagamento {
+        text-align: center;
+        margin-top: 5px;
+        }
+
+        label {
+        display: block;
+        }
+
+        input[type="radio"] {
+        display: block;
+        margin: 5px auto;
+        }
+
+
+    </style>    
+</head>
+
+<body>
+    <div class="container">
+        <div class="signin-signup">
+            <form action="login.php" method = "POST" class="sign-in-form">
+                <h2 class="title">Login</h2>
+                <div class="input-field">
+                    <i class="fas fa-user"></i>
+                    <input type="text" name="nome_usuario" placeholder="Nome do usuário" required>
+                </div>
+                <div class="input-field">
+                    <i class="fas fa-lock"></i>
+                    <input type="password" name="senha_usuario" placeholder="Senha" required>
+                </div>
+                <div class="botao">
+                <button class="btn"><a href="index.html" style="color:white; text-decoration: none;">Voltar</a></button>
+                <input type="submit" name="submit" id="submit" value="Login" class="btn">
+                </div>
+                <p class="account-text">Não possui uma conta? <a href="#" id="sign-up-btn2">Cadastrar</a></p>
+            </form>
+
+            <form action="cadastro.php" method = "POST" class="sign-up-form">
+                <h2 class="title">Cadastro</h2>
+                <div class="input-field">
+                    <i class="fas fa-user"></i>
+                    <input type="text" name="nome" placeholder="Nome do usuário" required>
+                </div>
+                <div class="input-field">
+                    <i class="fas fa-user"></i>
+                    <input type="text" name="CPF" placeholder="CPF" required>
+                </div>
+                <div class="input-field">
+                    <i class="fas fa-envelope"></i>
+                    <input type="text" name="email" placeholder="Email" required>
+                </div>
+                <div class="input-field">
+                    <i class="fas fa-lock"></i>
+                    <input type="password" name="senha" placeholder="Senha" required>
+                </div>
+                <!-- Forma de pagamento -->
+                <p>Forma de Pagamento</p>
+                <!--
+                <input type="radio" id="PIX" name="pagamento" value="PIX" required>
+                <label for="PIX">PIX</label>
+                <input type="radio" id="debito" name="pagamento" value="debito" required>
+                <label for="debito">Débito</label>-->
+                <div class="pagamento">
+                    <label for="cartao">Cartão</label>
+                    <input type="radio" id="cartao" name="pagamento" value="cartao" required>
+                  
+                    <label for="nenhum">Nenhum</label>
+                    <input type="radio" id="nenhum" name="pagamento" value="nenhum" required>
+                  </div>
+                  
+                <!-- End - Forma de pagamento -->
+                <input type="submit" name="submit" id="submit" value="Cadastrar" class="btn">
+                <p class="account-text">Já possui uma conta? <a href="#" id="sign-in-btn2">Acessar</a></p>
+            </form>
+        </div>
+        <div class="panels-container">
+            <div class="panel left-panel">
+                <div class="content">
+                    <h3>Já possui cadastro?</h3>
+                    <p>Acesse a sua conta!</p>
+                    <button class="btn" id="sign-in-btn">Login</button>
+                </div>
+                <img src="imagens/telaLogin.png" alt="" class="image">
+            </div>
+            <div class="panel right-panel">
+                <div class="content">
+                    <h3>Novo na webteca?</h3>
+                    <p>Cadastre-se e aproveite esta nova experiência!</p>
+                    <button class="btn" id="sign-up-btn">Cadastrar</button>
+                </div>
+                <img src="imagens/login.png" alt="" class="image">
+            </div>
+        </div>
+    </div>
+    <script src="js/login.js"></script>
+</body>
+</html>

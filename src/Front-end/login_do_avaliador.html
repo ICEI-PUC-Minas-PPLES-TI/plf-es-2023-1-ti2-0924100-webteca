@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <link rel="stylesheet" href="css/login_do_avaliador.css">
+    <title>Login do Avaliador</title>
+    <style>
+     .botao{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    }
+    .btn {
+     margin: 0 75px; /* Espaçamento entre os botões */
+    }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="signin-signup">
+            <form action="login_do_avaliador.php" method = "POST" class="sign-in-form">
+                <h2 class="title">Apenas Avaliadores São Permitidos!</h2>
+                <div class="input-field">
+                    <i class="fas fa-user"></i>
+                    <input type="text" name="nome_avaliador" placeholder="Nome do Avaliador" required>
+                </div>
+                <div class="input-field">
+                    <i class="fas fa-lock"></i>
+                    <input type="password" name="senha_avaliador" placeholder="Senha" required>
+                </div>
+                <div class="botao">
+                <button class="btn"><a href="index.html" style="color:white; text-decoration: none;">Voltar</a></button>
+                <input type="submit" name="submit" id="submit" value="Login" class="btn">
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

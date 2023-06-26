@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <link rel="stylesheet" href="css/virar_narrador.css">
+    <title>Virar Narrador</title>
+    <style>
+        .botao{
+        margin-top: 10px;
+        display: flex;
+        justify-content: center;
+        }
+        .btn {
+         margin: 0 75px; /* Espaçamento entre os botões */
+        }
+         .title{
+        text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="Sending-request">
+            <form action="virar_narrador.php" method="POST" class="request-form" 
+            id="formulario-de-credenciamento" enctype="multipart/form-data">
+                <h2 class="title" style="color: #ef8092;">Deseja se tornar um Narrador?</h2>
+                <p>Mande seu Currículo (apenas formato pdf é aceito) e iremos te enviar uma resposta por email!</p>
+                <div class="input-field">
+                    <i class="fas fa-lock"></i>
+                    <input type="File" name="curriculo" placeholder="Currículo" required>
+                </div>
+                <div class="botao">
+                <button class="btn"><a href="index_Leitor.php" style="color:white; text-decoration: none;">Voltar</a></button>
+                <button type="submit" class="btn" name="submit" id="submit">Enviar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

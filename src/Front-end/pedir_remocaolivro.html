@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <link rel="stylesheet" href="css/pedir_remocaolivro.css">
+    <title>Pedir Remoção de AudioLivro</title>
+    <style>
+         .botao{
+        margin-top: 10px;
+        display: flex;
+        justify-content: center;
+        }
+        .btn {
+         margin: 0 75px; /* Espaçamento entre os botões */
+        }
+        .title{
+        text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="Sending-request">
+            <form action="pedir_remocaolivro.php" method="POST" class="request-form" 
+            id="formulario-de-credenciamento">
+                <h2 class="title" style="color: #ef8092;">Fazer um pedido de remoção de Livro</h2>
+                <p>Caso um audiolivro não possua uma qualidade adequada. Mande um pedido e o livro será removido, caso sua reclamação seja válida.</p>
+                <div class="input-field">
+                    <i class="fas fa-user"></i>
+                    <input type="text" name="livro" placeholder="Nome do Livro" required>
+                </div>
+                <div class="input-field">
+                    <i class="fas fa-envelope"></i>
+                    <input type="text" name="motivo" placeholder="Motivo de remoção" required>
+                </div>
+                <div class="botao">
+                <button class="btn"><a href="index_Leitor.php" style="color:white; text-decoration: none;">Voltar</a></button>
+                <button type="submit" class="btn" name="submit" id="submit">Enviar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
